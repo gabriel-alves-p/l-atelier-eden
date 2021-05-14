@@ -15,7 +15,7 @@ body {
 
 #navbar {
     font-family: Libre Baskerville, sans-serif;
-    font-size: 170%;
+    font-size: 150%;
     position: fixed;
     background-color: rgba(0, 0, 0, .7);
     width: 100%;
@@ -32,9 +32,14 @@ body {
 #navbar a {
     text-decoration: none;
     color: #f1f1f1;
-    margin: 40px;
+    margin: 0;
+    padding: 18px 70px;
 }
 
+#navbar a:hover {
+    border: 1px solid #f1f1f1;
+    background:rgba(0, 0, 0, .7);
+}
 
 /*hero-video styling */
 #hero-video {
