@@ -35,3 +35,13 @@ body {
     margin: 40px;
 }
 
+
+/*hero-video styling */
+#hero-video {
+    width: 100%;
+}
+
+#hero-video-section {
+    display: block;
+    width: 100%;
+}
