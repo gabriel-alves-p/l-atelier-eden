@@ -9,6 +9,17 @@
 body {
     font-family: Lato, sans-serif;
     font-weight: 400;
+    color: #ffcc99;
+    background-color: #1A5E63;
+}
+
+a {
+    text-decoration: none;
+    color: #ffcc99;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Libre Baskerville, sans-serif;
 }
 
 /* nav bar styling */
@@ -30,18 +41,17 @@ body {
 }
 
 #navbar a {
-    text-decoration: none;
-    color: #fff0f5;
     margin: 0;
     padding: 18px 70px;
 }
 
 #navbar a:hover {
-    border: 1px solid #fff0f5;
+    border: 1px solid #ffcc99;
     background:rgba(0, 0, 0, .7);
 }
 
 /*hero-video styling */
+
 #hero-video {
     width: 100%;
     position: absolute;
@@ -56,11 +66,11 @@ body {
 }
 
 /* logo styling */
+
 #logo {
     position: absolute;
     text-align: center;
     margin: 300px 410px;
-    color: #fff0f5;
     background-color: rgba(0, 0, 0, .5);
     box-shadow: 0 0 15px 10px rgba(0, 0, 0, .5);
     font-family: Libre Baskerville, sans-serif;
