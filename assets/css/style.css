@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 18px 70px;
 }
 
-#navbar a:hover {
+a:hover {
     border: 1px solid #ffcc99;
     background:rgba(0, 0, 0, .7);
 }
@@ -93,11 +93,17 @@ h1, h2, h3, h4, h5, h6 {
     padding: 30px 20px;
 }
 
-#about-content {
+.section-content {
     width: 60%;
     margin: 0 auto;
     text-align: center;
     font-size: 18px;
+}
+
+#about-image-1 img, #about-image-2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 #about-image-1 {
@@ -109,15 +115,7 @@ h1, h2, h3, h4, h5, h6 {
     border: 2px solid #ffcc99;
 }
 
-#about-image-1 img, #about-image-2 img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
 #about-image-2 {
-    background: url('../images/tasting-menu-image-2.jpeg');
-    object-fit: cover;
     width: 50%;
     height: 500px;
     margin: 50px 0;
@@ -128,4 +126,41 @@ h1, h2, h3, h4, h5, h6 {
 #about {
     width: 100%;
     height: 900px;
+}
+
+/* menu section */
+
+#menus {
+    width: 100%;
+    height: 900px;
+    display: inline-block;
+}
+.menu-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.menu-image {
+    width: 50%;
+    height: 500px;
+    margin: 50px 0;
+    float: left;
+    border: 2px solid #ffcc99;
+    position: absolute;
+}
+.menu-title {
+    width: 50%;
+    height: 500px;
+    margin: 50px 0;
+    float: right;
+    display: inline-block;
+}
+
+.menu-title h2 {
+    width: 60%;
+    margin: 0 auto;
+    border-bottom: 2px solid #ffcc99;
+    text-align: center;
+    font-size: 30px;
 }
