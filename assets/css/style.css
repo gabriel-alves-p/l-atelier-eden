@@ -31,13 +31,13 @@ body {
 
 #navbar a {
     text-decoration: none;
-    color: #f1f1f1;
+    color: #fff0f5;
     margin: 0;
     padding: 18px 70px;
 }
 
 #navbar a:hover {
-    border: 1px solid #f1f1f1;
+    border: 1px solid #fff0f5;
     background:rgba(0, 0, 0, .7);
 }
 
@@ -60,7 +60,7 @@ body {
     position: absolute;
     text-align: center;
     margin: 300px 410px;
-    color: #f1f1f1;
+    color: #fff0f5;
     background-color: rgba(0, 0, 0, .5);
     box-shadow: 0 0 15px 10px rgba(0, 0, 0, .5);
     font-family: Libre Baskerville, sans-serif;
