@@ -61,18 +61,20 @@ h1, h2, h3, h4, h5, h6 {
 #hero-video-section {
     display: block;
     width: 100%;
-    height: 712px;
-    position: relative;
+    height: 715px;
 }
 
 /* logo styling */
 
 #logo {
-    position: absolute;
+    width: 35%;
+    margin: 0 auto;
+    top: 300px;
+    position: relative;
     text-align: center;
-    margin: 300px 410px;
     background-color: rgba(0, 0, 0, .5);
     box-shadow: 0 0 15px 10px rgba(0, 0, 0, .5);
+    border-radius: 10%;
     font-family: Libre Baskerville, sans-serif;
     font-size: 200%;
 }
