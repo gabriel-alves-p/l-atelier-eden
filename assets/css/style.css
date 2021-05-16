@@ -77,6 +77,23 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 200%;
 }
 
-#logo p {
+#logo h2 {
+    font-size: 18px;
+}
+
+/* about us section */
+
+.section-title {
+    font-size: 30px;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+#about-content {
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
     font-size: 18px;
 }
