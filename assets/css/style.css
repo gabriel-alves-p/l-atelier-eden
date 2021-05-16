@@ -59,13 +59,14 @@ body {
 #logo {
     position: absolute;
     text-align: center;
-    margin: 275px 400px;
-    color: #a45a52;
-    background-color: rgba(0, 0, 0, .7);
+    margin: 300px 410px;
+    color: #f1f1f1;
+    background-color: rgba(0, 0, 0, .5);
+    box-shadow: 0 0 15px 10px rgba(0, 0, 0, .5);
     font-family: Libre Baskerville, sans-serif;
     font-size: 200%;
 }
 
 #logo p {
-    font-size: 20px;
+    font-size: 18px;
 }
