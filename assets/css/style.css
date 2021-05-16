@@ -99,25 +99,31 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #about-image-1 {
-    background: url('../images/about-us-image-1.jpeg');
-    background-size: 100% 100%;
-    width: 60%;
+    width: 50%;
     height: 500px;
-    margin: 50px;
+    margin: 50px 0;
     float: left;
     position: absolute;
+    border: 2px solid #ffcc99;
+}
+
+#about-image-1 img, #about-image-2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 #about-image-2 {
-    background: url('../images/about-us-image-2.jpeg');
-    background-size: 100% 100%;
-    width: 60%;
+    background: url('../images/tasting-menu-image-2.jpeg');
+    object-fit: cover;
+    width: 50%;
     height: 500px;
-    margin: 400px 50px 50px;
+    margin: 50px 0;
     float: right;
+    border: 2px solid #ffcc99;
 }
 
 #about {
     width: 100%;
-    height: 1200px;
+    height: 900px;
 }
