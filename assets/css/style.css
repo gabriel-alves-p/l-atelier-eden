@@ -153,6 +153,7 @@ a:hover {
     width: 50%;
     height: 500px;
     margin: 50px 0;
+    border: 2px solid #ffcc99;
     float: left;
     position: absolute;
 }
