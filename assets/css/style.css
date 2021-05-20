@@ -202,3 +202,12 @@ a:hover {
 #a-la-carte-img {
     left: 628px;
 }
+
+#menu-note {
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 15px;
+}
