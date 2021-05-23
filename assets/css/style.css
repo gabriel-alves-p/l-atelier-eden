@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -292,7 +293,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #newsletter form {
     margin: 0 auto;
-    padding: 25px;
+    padding-top: 25px;
 }
 
 #policy {
@@ -311,3 +312,25 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 1px solid #ffcc99;
 }
 
+#email {
+    font-family: inherit;
+    width: 30%;
+    padding: 5px;
+    border: 2px solid #ffcc99;
+}
+
+#submit {
+    font-family: inherit;
+    font-size: 15px;
+    color: #ffcc99;
+    width: 15%;
+    background-color: #1A5E63;
+    border: 2px solid #ffcc99;
+    padding: 5px;
+}
+
+#submit:hover {
+    color: #1A5E63;
+    background-color: #ffcc99;
+    border: 2px solid #1A5E63;
+}
