@@ -219,24 +219,10 @@ a:hover {
     background-color: rgba(0, 0, 0, .7);
 }
 
-.footer-section {
-    width: 33%;
-    height: 50%;
-    display: inline-block;
-}
-
-#opening-times {
-    float: left;
-}
-
-#contact-us {
-    left: 33%;
-}
-
-#find-us {
-    float: right;
-}
-
-#social-media {
-    top: 200px;
+#info {
+    background: url('../images/veg-menu-image-3.jpeg') no-repeat center;
+    background-size: 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
 }
