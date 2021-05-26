@@ -68,7 +68,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* logo styling */
 
-#logo {
+.logo {
     width: 33%;
     margin: 0 auto;
     top: 45%;
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 200%;
 }
 
-#logo h2 {
+.logo h2 {
     font-size: 18px;
 }
 
