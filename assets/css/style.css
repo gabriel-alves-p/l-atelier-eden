@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5, h6 {
     border: 2px solid #ffcc99;
 }
 
-#about, #careers {
+#about, .careers {
     width: 100%;
     height: 900px;
 }
@@ -335,19 +335,9 @@ h1, h2, h3, h4, h5, h6 {
 
 /* careers.html logo */
 
-.logo2 {
-    width: 100%;
-    height: 500px;
-    position: relative;
-}
-
-.logo-other {
-    background-color: #1A5E63;
-    box-shadow: none;
-    border-radius: 0;
-    width: 50%;
-    left: 25%;
-    top: 20%;
+.careers-title {
+    margin-top: 0;
+    padding-top: 100px;
 }
 
 
