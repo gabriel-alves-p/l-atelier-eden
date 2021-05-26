@@ -310,14 +310,14 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: 1px solid #ffcc99;
 }
 
-#email {
+#n-email {
     font-family: inherit;
     width: 30%;
     padding: 5px;
     border: 2px solid #ffcc99;
 }
 
-#submit {
+#subscribe {
     font-family: inherit;
     font-size: 15px;
     color: #ffcc99;
