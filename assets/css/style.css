@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .logo2 {
     width: 100%;
-    height: 250px;
+    height: 200px;
     position: relative;
 }
 
@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 auto;
     margin-top: 50px;
     text-align: center;
-    padding: 30px 20px;
+    padding: 0 20px 30px;
 }
 
 .section-content {
@@ -117,30 +117,28 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 18px;
 }
 
-#about-image-1 img, #about-image-2 img {
+.about-image-1 img, .about-image-2 img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 
-#about-image-1 {
+.about-image-1 {
     width: 50%;
     height: 500px;
-    margin-top: 50px;
     float: left;
     position: absolute;
     border: 2px solid #ffcc99;
 }
 
-#about-image-2 {
+.about-image-2 {
     width: 50%;
     height: 500px;
-    margin-top: 50px;
     float: right;
     border: 2px solid #ffcc99;
 }
 
-#about {
+#about, #careers {
     width: 100%;
     height: 900px;
 }
