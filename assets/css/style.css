@@ -395,7 +395,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 10px;
 }
 
-#reset:hover, #send-application:hover {
+#reset:hover, #send-application:hover, #book:hover {
     color: #1A5E63;
     background-color: #ffcc99;
     border: 2px solid #1A5E63;
@@ -431,3 +431,15 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+#full-name, #book-email, #number, #dietary, #date, #time, #book {
+    background-color: rgba(0, 0, 0, .7);
+    color: #ffcc99;
+    width: 30%;
+    padding: 5px;
+    border: 2px solid #ffcc99;
+    margin: 10px;
+}
+
+#book {
+    width: 15%;
+}

@@ -26,6 +26,14 @@
         <div class="section-title careers-title">
             <h1>Book at L'atelier Eden</h1>
         </div>
+        <div class="section-content">
+            <p>
+                In the event that a booking is not honoured in whole or in part,
+                which includes reducing numbers, or is cancelled with less than 48 hours notice,
+                a cancellation fee of £50 per person for lunch or £ per person will be charged to
+                the card provided.
+            </p>
+        </div>
     </section>
     <section>
         <div class="booking-background">
@@ -38,27 +46,31 @@
                     <label for="email">Your email address?</label>
                     <input type="email" name="email" id="book-email" placeholder="Enter your email address" required>
                     <br>
+                    <label for="dietary">Any dietary requirements?</label>
+                    <input type="text" name="dietary" id="dietary" placeholder=" Enter any dietary requirements">
+                    <br>
                     <label for="number">How many of you are joining us?</label>
                     <input type="number" name="number" id="number" min="1" max="8" required>
                     <br>
                     <label for="date">When would you like to dine with us?</label>
                     <input type="date" id="date" name="date" required>
                     <br>
-                    <input type="radio" id="lunch-1230" name="time" value="Lunch 12:30pm" required>
+                    <input type="radio" class="time" name="time" value="Lunch 12:30pm" required>
                     <label for="lunch-1230">Lunch 12:30pm</label>
                     <br>
-                    <input type="radio" id="lunch-230" name="time" value="female">
+                    <input type="radio" class="time" name="time" value="female">
                     <label for="lunch-230">Lunch 2:30pm</label>
                     <br>
-                    <input type="radio" id="dinner-630" name="time" value="6:30">
+                    <input type="radio" class="time" name="time" value="6:30">
                     <label for="dinner-630">Dinner 6:30pm</label>
                     <br>
-                    <input type="radio" id="dinner-830" name="time" value="8:30">
+                    <input type="radio" class="time" name="time" value="8:30">
                     <label for="dinner-830">Dinner 8:30pm</label>
                     <br>
                     <input type="submit" value="Book" id="book">
                 </form>
                 <p><em>
+                    
                 </em></p>
             </div>
         </div>
