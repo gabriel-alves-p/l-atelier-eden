@@ -77,8 +77,10 @@
                 <li>Kitchen Porter</li>
             </ul>
         </div>
-        <div class="apply-form">
-        <form action="index.html" method="POST">
+        <div class="apply-background">
+        <div class="apply-form-outer">
+            <h2>Application Form</h2>
+        <form action="index.html" method="POST" id="apply-form">
             <label for="fname">First Name</label>
             <input type="text" name="fname" id="fname" required>
             <br>
@@ -89,18 +91,18 @@
             <input type="email" name="email" id="email" required>
             <br>
             <label for="cover-letter">
-                Briefly tell us <em>why</em> you would like to join our team and <em>why</em> you
-                would be a positive addition to the restaurant
+                Attach your cover letter here
             </label>
-            <input type="text" name="cover-letter" id="cover-letter" required>
+            <input type="file" name="cover-letter" id="cover-letter" required>
             <br>
             <label for="cv">Attach your CV here</label>
             <input type="file" name="cv" id="cv" required>
             <br>
-            <input type="reset">
+            <input type="reset" id="reset">
             <br>
-            <input type="submit" value="Apply">
+            <input type="submit" value="Apply" id="send-application">
         </form>
+        </div>
         </div>
     </section>
     <footer>

@@ -311,7 +311,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #n-email {
-    font-family: inherit;
     width: 30%;
     padding: 5px;
     border: 2px solid #ffcc99;
@@ -327,7 +326,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 5px;
 }
 
-#submit:hover {
+#subscribe:hover {
     color: #1A5E63;
     background-color: #ffcc99;
     border: 2px solid #1A5E63;
@@ -356,7 +355,7 @@ h1, h2, h3, h4, h5, h6 {
     list-style-type: none;
 }
 
-.apply-form {
+.apply-background {
     background: url('../images/careers-image-3.jpeg') no-repeat center;
     background-size: 100%;
     background-attachment: fixed;
@@ -365,3 +364,41 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     text-align: center;
 }
+
+/* careers.html application form */
+
+.apply-form-outer {
+    background-color: rgba(0, 0, 0, .7);
+    width: 60%;
+    height: 80%;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    border: 2px solid #ffcc99;
+}
+
+.apply-form-outer h2 {
+    font-size: 30px;
+    padding: 20px;
+}
+
+#apply-form {
+    font-size: 20px;
+}
+
+#fname, #lname, #email, #cover-letter, #cv, #reset, #send-application {
+    background-color: rgba(0, 0, 0, .7);
+    color: #ffcc99;
+    width: 30%;
+    padding: 5px;
+    border: 2px solid #ffcc99;
+    margin: 10px;
+}
+
+#reset:hover, #send-application:hover {
+    color: #1A5E63;
+    background-color: #ffcc99;
+    border: 2px solid #1A5E63;
+}
+
+
