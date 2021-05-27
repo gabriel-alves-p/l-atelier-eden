@@ -383,7 +383,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #apply-form {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 #fname, #lname, #email, #cover-letter, #cv, #reset, #send-application {
@@ -399,6 +399,15 @@ h1, h2, h3, h4, h5, h6 {
     color: #1A5E63;
     background-color: #ffcc99;
     border: 2px solid #1A5E63;
+}
+
+#cover-letter, #cv {
+    border: none;
+    background-color: inherit;
+}
+
+#reset, #send-application {
+    width: 15%;
 }
 
 
