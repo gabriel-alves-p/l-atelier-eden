@@ -31,12 +31,30 @@
         <div class="booking-background">
             <div class="apply-form-outer">
                 <h2>Booking Form <i class="fab fa-wpforms"></i></h2>
-                <form action="index.html" method="POST" id="apply-form">
-                    <label for="full-name">Full Name</label>
-                    <input type="text" name="full-name" id="full-name" required>
+                <form action="index.html" method="POST" id="booking-form">
+                    <label for="full-name">Who is the reservation for?</label>
+                    <input type="text" name="full-name" id="full-name" placeholder="Enter your full name" required>
                     <br>
-                    <label for="email">Email Address</label>
-                    <input type="email" name="email" id="book-email" required>
+                    <label for="email">Your email address?</label>
+                    <input type="email" name="email" id="book-email" placeholder="Enter your email address" required>
+                    <br>
+                    <label for="number">How many of you are joining us?</label>
+                    <input type="number" name="number" id="number" min="1" max="8" required>
+                    <br>
+                    <label for="date">When would you like to dine with us?</label>
+                    <input type="date" id="date" name="date" required>
+                    <br>
+                    <input type="radio" id="lunch-1230" name="time" value="Lunch 12:30pm" required>
+                    <label for="lunch-1230">Lunch 12:30pm</label>
+                    <br>
+                    <input type="radio" id="lunch-230" name="time" value="female">
+                    <label for="lunch-230">Lunch 2:30pm</label>
+                    <br>
+                    <input type="radio" id="dinner-630" name="time" value="6:30">
+                    <label for="dinner-630">Dinner 6:30pm</label>
+                    <br>
+                    <input type="radio" id="dinner-830" name="time" value="8:30">
+                    <label for="dinner-830">Dinner 8:30pm</label>
                     <br>
                     <input type="submit" value="Book" id="book">
                 </form>

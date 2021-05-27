@@ -355,6 +355,8 @@ h1, h2, h3, h4, h5, h6 {
     list-style-type: none;
 }
 
+/* careers.html application form */
+
 .apply-background {
     background: url('../images/careers-image-3.jpeg') no-repeat center;
     background-size: 100%;
@@ -364,8 +366,6 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     text-align: center;
 }
-
-/* careers.html application form */
 
 .apply-form-outer {
     background-color: rgba(0, 0, 0, .7);
@@ -430,3 +430,4 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     text-align: center;
 }
+
