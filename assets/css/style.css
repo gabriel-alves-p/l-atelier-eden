@@ -445,3 +445,28 @@ h1, h2, h3, h4, h5, h6 {
     margin: 30px;
 }
 
+/* media queries */
+
+/* extra small devices (portrait phones, less than 576px) */
+
+@media (max-width: 575px) {
+
+}
+
+/* small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) {
+
+}
+
+/* medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {
+
+}
+
+/* large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) {
+    
+}
