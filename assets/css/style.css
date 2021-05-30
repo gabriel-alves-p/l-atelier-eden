@@ -481,4 +481,24 @@ h1, h2, h3, h4, h5, h6 {
         width: 80%;
     }
     
+    .logo {
+        width: 60%;
+        left: 20%;
+    }
+
+    .menu-sample ul {
+        width: 80%;
+    }
+
+    #footer {
+        font-size: 16px;
+    }
+
+    #newsletter form {
+        padding-top: 20px;
+    }
+
+    .careers-title {
+        width: 70%;
+    }
 }
