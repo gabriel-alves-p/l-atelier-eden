@@ -577,4 +577,19 @@ h1, h2, h3, h4, h5, h6 {
     #subscribe {
         width: 30%;
     }
+
+    .careers-title {
+        width: 85%;
+    }
+
+    .apply-form-outer {
+        width: 80%;
+        left: 10%;
+    }
+}
+
+/* small devices (landscape phones, 576px and down) */
+
+@media (max-width: 576px) {
+    
 }
