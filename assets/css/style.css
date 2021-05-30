@@ -34,6 +34,7 @@ h1, h2, h3, h4, h5, h6 {
     height: 75px;
     text-align: center;
     z-index: 1;
+    list-style-type: none;
 }
 
 #navbar li {
@@ -42,9 +43,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #navbar a {
-    width: 100%;
-    margin: 0 auto;
-    padding: 18px 70px;
+    margin: 0 30px;
+    padding: 18px 60px;
 }
 
 #navbar a:hover {
@@ -449,7 +449,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* extra small devices (portrait phones, less than 576px) */
 
-@media (max-width: 575px) {
+@media (min-width: 320px) {
 
 }
 
@@ -468,5 +468,17 @@ h1, h2, h3, h4, h5, h6 {
 /* large devices (desktops, 992px and up) */
 
 @media (min-width: 992px) {
+    #navbar a {
+        padding: 15px 40px;
+        margin: 0 15px;
+    }
+
+    .section-title {
+        width: 60%;
+    }
+
+    .section-content {
+        width: 80%;
+    }
     
 }
