@@ -43,7 +43,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #navbar a {
-    margin: 0 30px;
+    margin: 0 auto;
     padding: 18px 60px;
 }
 
@@ -447,30 +447,17 @@ h1, h2, h3, h4, h5, h6 {
 
 /* media queries */
 
-/* extra small devices (portrait phones, less than 576px) */
+/* large devices (desktops, 992px and down) */
 
-@media (min-width: 320px) {
-
-}
-
-/* small devices (landscape phones, 576px and up) */
-
-@media (min-width: 576px) {
-
-}
-
-/* medium devices (tablets, 768px and up) */
-
-@media (min-width: 768px) {
-
-}
-
-/* large devices (desktops, 992px and up) */
-
-@media (min-width: 992px) {
+@media (max-width: 992px) {
+    
     #navbar a {
         padding: 15px 40px;
         margin: 0 15px;
+    }
+
+    #navbar li {
+        margin: 0;
     }
 
     .section-title {
@@ -500,5 +487,94 @@ h1, h2, h3, h4, h5, h6 {
 
     .careers-title {
         width: 70%;
+    }
+}
+
+/* medium devices (tablets, 768px and down) */
+
+@media (max-width: 768px) {
+
+    h2 {
+        font-size: 40px;
+    }
+
+    #navbar li {
+        float: left;
+        margin: 0 33px;
+    }
+
+    #navbar a {
+        padding: 10px 3px;
+        margin: 0;
+    }
+
+    .logo {
+        font-size: 25px;
+        width: 80%;
+        top: 40%;
+        left: 10%;
+    }
+
+    .logo h1 {
+        font-size: 50px;
+    }
+
+    .section-title {
+        width: 70%;
+    }
+
+    .section-content {
+        width: 80%;
+    }
+
+    #about {
+        height: 930px;
+    }
+
+    #menus {
+        height: 2100px;
+    }
+
+    .menu-sample h2 {
+        font-size: 25px;
+    }
+
+    .menu-sample ul {
+        width: 95%;
+    }
+
+    #info-content, #info-location {
+        width: 45%;
+    }
+
+    #info-content {
+        left: 3.5%;
+    }
+
+    #info-location {
+        right: 3.5%;
+    }
+
+    #footer {
+        height: 200px;
+    }
+
+    #footer a {
+        display: block;
+        width: 50%;
+        padding: 10px 25px;
+    }
+
+    #footer form {
+        padding-top: 35px;
+    }
+
+    #n-email {
+        width: 50%;
+        margin: 15px 0;
+    }
+
+    #subscribe {
+        width: 30%;
     }
 }
