@@ -619,7 +619,7 @@ h1, h2, h3, h4, h5, h6 {
         height: 673px;
     }
 
-    .section-title h2 {
+    .section-title h2, h1 {
         font-size: 30px;
     }
 
@@ -715,5 +715,28 @@ h1, h2, h3, h4, h5, h6 {
 
     #footer {
         height: 175px;
+    }
+
+    .careers {
+        height: 250px;
+    }
+
+    .positions {
+        margin-top: 25px;
+    }
+
+    .apply-form-outer {
+        width: 95%;
+        height: 500px;
+        left: 2.5%;
+        top: 50px;
+    }
+
+    #booking {
+        height: 600px;
+    }
+
+    .booking-background {
+        height: 700px;
     }
 }
