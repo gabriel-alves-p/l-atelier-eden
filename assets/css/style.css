@@ -860,6 +860,83 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
+/* small devices (landscape phones , 540px and down) */
+
+@media (max-width: 540px) {
+    
+    .mapouter {
+        transform: scale(0.9);
+        position: relative;
+        margin: 0 auto;
+    }
+
+    #apply {
+        height: 1200px;
+    }
+
+    #apply-form label {
+        display: block;
+        text-align: left;
+        margin: 10px 10px 0;
+        width: 100%;
+    }
+
+    #fname, #lname, #email, #cover-letter, #cv, #reset, #send-application {
+        width: calc(100% - 20px);
+        padding: 5px;
+        border: 2px solid #ffcc99;
+        margin: 10px;
+    }
+
+    .apply-form-outer {
+        width: 95%;
+        height: 700px;
+        left: 2.5%;
+        top: 50px;
+    }
+
+    #reset, #send-application{
+        width: calc(100% - 20px);
+    }
+
+    #booking-form label {
+        display: block;
+        text-align: left;
+        margin: 10px 10px 0;
+        width: 100%;
+    }
+
+    #full-name, #book-email, #number, #dietary, #date, #time, #book {
+        width: calc(100% - 20px);
+        padding: 5px;
+        border: 2px solid #ffcc99;
+        margin: 10px;
+    }
+
+    .booking-background {
+        background-size: cover;
+        height: 1100px;
+    }
+
+    #booking {
+        height: 1000px;
+    }
+
+    #apply {
+        height: 1250px;
+    }
+
+    .apply-background {
+        background-size: cover;
+        height: 838px;
+    }
+
+    .apply-form-outer h2 {
+        padding: 20px 0;
+    }
+
+}
+
 /* smaller devices (portrait phones, 414px and down) */
 
 @media (max-width: 414px) {
@@ -995,73 +1072,16 @@ h1, h2, h3, h4, h5, h6 {
         padding: 0;
     }
 
+    #apply {
+        height: 1182px;
+    }
+
     .careers-title {
         margin-top: 60px;
     }
 
     .careers {
         height: 300px;
-    }
-
-    #apply {
-        height: 1250px;
-    }
-
-    .apply-background {
-        background-size: cover;
-        height: 905px;
-    }
-
-    .apply-form-outer h2 {
-        padding: 20px 0;
-    }
-
-    #apply-form label {
-        display: block;
-        text-align: left;
-        margin: 10px 10px 0;
-        width: 100%;
-    }
-
-    #fname, #lname, #email, #cover-letter, #cv, #reset, #send-application {
-        width: calc(100% - 20px);
-        padding: 5px;
-        border: 2px solid #ffcc99;
-        margin: 10px;
-    }
-
-    .apply-form-outer {
-        width: 95%;
-        height: 800px;
-        left: 2.5%;
-        top: 50px;
-    }
-
-    #reset, #send-application{
-        width: calc(100% - 20px);
-    }
-
-    #booking-form label {
-        display: block;
-        text-align: left;
-        margin: 10px 10px 0;
-        width: 100%;
-    }
-
-    #full-name, #book-email, #number, #dietary, #date, #time, #book {
-        width: calc(100% - 20px);
-        padding: 5px;
-        border: 2px solid #ffcc99;
-        margin: 10px;
-    }
-
-    .booking-background {
-        background-size: cover;
-        height: 1100px;
-    }
-
-    #booking {
-        height: 1000px;
     }
 
     /* small devices (portrait phones, 375px and down) */
