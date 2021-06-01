@@ -554,6 +554,10 @@ h1, h2, h3, h4, h5, h6 {
         width: 80%;
     }
 
+    #vegetarian {
+        height: 640px;
+    }
+
     #footer {
         font-size: 16px;
     }
@@ -698,7 +702,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     #about {
-        height: 673px;
+        height: 740px;
     }
 
     .section-title h2, h1 {
@@ -724,7 +728,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     #menus {
-        height: 2250px;
+        height: 2550px;
     }
 
     #discover-section {
@@ -736,15 +740,15 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     #tasting {
-        height: 800px;
+        height: 900px;
     }
 
     #a-la-carte {
-        height: 640px;
+        height: 700px;
     }
 
     #vegetarian {
-        height: auto;
+        height: 590px;
     }
 
     .menu-image {
@@ -819,6 +823,10 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .booking-background {
+        height: 800px;
+    }
+
+    #booking {
         height: 700px;
     }
 }
