@@ -605,11 +605,11 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     #about {
-        height: 930px;
+        height: 1000px;
     }
 
     #menus {
-        height: 2100px;
+        height: 2170px;
     }
 
     .menu-sample h2 {
@@ -617,7 +617,12 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .menu-sample ul {
-        width: 95%;
+        width: 85%;
+        font-size: 14px;
+    }
+
+    #vegetarian {
+        height: 650px;
     }
 
     #info-content, #info-location {
@@ -816,4 +821,10 @@ h1, h2, h3, h4, h5, h6 {
     .booking-background {
         height: 700px;
     }
+}
+
+/* extra small devices (portrait phones, 320px and down) */
+
+@media (max-width: 320px) {
+
 }
