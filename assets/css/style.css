@@ -833,9 +833,9 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-/* smaller devices (portrait phones, 411px and down) */
+/* smaller devices (portrait phones, 414px and down) */
 
-@media (max-width: 411px) {
+@media (max-width: 414px) {
     #navbar {
         font-size: 14px;
         top: 0;
