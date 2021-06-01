@@ -836,6 +836,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 320px) {
     #navbar {
         font-size: 14px;
+        top: 0;
     }
 
     #navbar li {
@@ -925,7 +926,7 @@ h1, h2, h3, h4, h5, h6 {
 
     #info {
         height: auto;
-        background-size: auto;
+        background-size: cover;
     }
 
     #info h3 {
@@ -962,6 +963,51 @@ h1, h2, h3, h4, h5, h6 {
         width: 80%;
         margin: 5px 0;
         padding: 0;
+    }
 
+    .careers-title {
+        margin-top: 60px;
+    }
+
+    .careers {
+        height: 300px;
+    }
+
+    #apply {
+        height: 1250px;
+    }
+
+    .apply-background {
+        background-size: cover;
+        height: 905px;
+    }
+
+    .apply-form-outer h2 {
+        padding: 20px 0;
+    }
+
+    #apply-form label {
+        display: block;
+        text-align: left;
+        margin: 10px 10px 0;
+        width: 100%;
+    }
+
+    #fname, #lname, #email, #cover-letter, #cv, #reset, #send-application {
+        width: calc(100% - 20px);
+        padding: 5px;
+        border: 2px solid #ffcc99;
+        margin: 10px;
+    }
+
+    .apply-form-outer {
+        width: 95%;
+        height: 800px;
+        left: 2.5%;
+        top: 50px;
+    }
+
+    #reset, #send-application{
+        width: calc(100% - 20px);
     }
 }
