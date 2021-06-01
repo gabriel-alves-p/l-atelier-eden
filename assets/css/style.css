@@ -499,10 +499,27 @@ h1, h2, h3, h4, h5, h6 {
     margin: 10px;
 }
 
+#booking-form label {
+    width: 30%;
+    text-align: left;
+    display: inline-block;
+}
+
 #book {
     width: 20%;
     font-size: 20px;
     margin: 30px;
+    color: #ffcc99;
+    background-color: #1A5E63;
+    border: 2px solid #ffcc99;
+}
+
+#booking p {
+    width: 80%;
+    height: 40px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 15px;
 }
 
 /* media queries */
