@@ -41,6 +41,7 @@ h1, h2, h3, h4, h5, h6 {
     display: inline-block;
     line-height: 75px;
     width: 20%;
+    float: left;
 }
 
 #navbar a {
@@ -687,6 +688,7 @@ h1, h2, h3, h4, h5, h6 {
     #navbar li {
         width: 20%;
         margin: 0;
+        float: left;
         line-height: 50px;
     }
 
@@ -843,6 +845,7 @@ h1, h2, h3, h4, h5, h6 {
 
     #navbar li {
         width: 20%;
+        float: left;
     }
 
     .logo {
