@@ -429,13 +429,22 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 15px;
 }
 
+#apply-form label {
+    width: 30%;
+    text-align: left;
+    display: inline-block;
+    margin-left: 50px;
+}
+
 #fname, #lname, #email, #cover-letter, #cv, #reset, #send-application {
     background-color: rgba(0, 0, 0, .7);
+    display: inline-block;
     color: #ffcc99;
-    width: 30%;
+    width: 50%;
+    height: 32px;
     padding: 5px;
     border: 2px solid #ffcc99;
-    margin: 10px;
+    margin: 10px 50px 10px 0;
 }
 
 #reset:hover, #send-application:hover, #book:hover {
@@ -451,13 +460,21 @@ h1, h2, h3, h4, h5, h6 {
 
 #reset, #send-application {
     width: 15%;
+    margin: 10px;
+}
+
+#send-application {
+    color: #ffcc99;
+    background-color: #1A5E63;
+    border: 2px solid #ffcc99;
 }
 
 .apply-form-outer p {
-    width: 100%;
+    width: 80%;
     height: 40px;
     margin: 0 auto;
-    text-align: center;
+    margin-top: 20px;
+    text-align: left;
     font-size: 15px;
 }
 
