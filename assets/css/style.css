@@ -834,5 +834,134 @@ h1, h2, h3, h4, h5, h6 {
 /* extra small devices (portrait phones, 320px and down) */
 
 @media (max-width: 320px) {
+    #navbar {
+        font-size: 14px;
+    }
 
+    #navbar li {
+        width: 63px;
+    }
+
+    .logo {
+        width: 100%;
+        left: 0;
+    }
+
+    .logo h1 {
+        font-size: 30px;
+    }
+
+    .logo h2 {
+        font-size: 10px;
+    }
+
+    .section-title {
+        margin: 0 auto;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        padding: 0;
+        width: 90%;
+    }
+
+    .section-content {
+        font-size: 14px;
+        width: 90%;
+        margin: 0 16px;
+    }
+
+    .section-title h2 {
+        font-size: 25px;
+    }
+
+    .about-image-1 {
+        position: relative;
+        width: 100%;
+        height: 150px;
+        left: 0;
+    }
+
+    #about {
+        height: 925px;
+    }
+
+    .about-image-2 {
+        position: relative;
+        width: 100%;
+        height: 150px;
+        left: 0;
+    }
+
+    #discover-section {
+        height: 250px;
+    }
+
+    #menus {
+        height: 3000px;
+    }
+
+    .menu-sample {
+        width: 90%;
+    }
+
+    .menu-sample h2 {
+        width: 90%;
+    }
+
+    .menu-sample li {
+        font-size: 14px;
+    }
+
+    #tasting {
+        height: 990px;
+    }
+
+    #a-la-carte {
+        height: 870px;
+    }
+
+    #vegetarian {
+        height: 700px;
+    }
+
+    #info {
+        height: auto;
+        background-size: auto;
+    }
+
+    #info h3 {
+        font-size: 25px;
+    }
+
+    #info p {
+        font-size: 14px;
+    }
+
+    #info-content, #info-location {
+        width: 100%;
+        left: 0;
+        top: 0;
+        position: relative;
+    }
+
+    .mapouter {
+        position: relative;
+        bottom: 10px;
+    }
+
+    #footer {
+        font-size: 14px;
+    }
+
+    #policy a {
+        width: 80%;
+        padding: 10px 0;
+    }
+
+    #newsletter input {
+        height: 25px;
+        width: 80%;
+        margin: 5px 0;
+        padding: 0;
+
+    }
 }
