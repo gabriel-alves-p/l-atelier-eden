@@ -376,6 +376,24 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 20px;
 }
 
+.vacancies {
+    text-align: left;
+    width: 300px;
+    margin: 20px auto;
+}
+
+.vacancies li::marker {
+    font-family: 'Font Awesome\ 5 Free';
+    content: '\f138';
+    font-weight: 900; 
+}
+
+.vacancies li {
+    padding: 5px 0 5px 10px;
+    font-size: 15px;
+
+}
+
 #apply ul {
     list-style-type: none;
 }
