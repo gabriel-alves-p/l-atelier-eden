@@ -833,7 +833,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-/* extra small devices (portrait phones, 411px and down) */
+/* smaller devices (portrait phones, 411px and down) */
 
 @media (max-width: 411px) {
     #navbar {
@@ -884,7 +884,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     #about {
-        height: 925px;
+        height: 800px;
     }
 
     .about-image-2 {
@@ -899,7 +899,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     #menus {
-        height: 3000px;
+        height: 2900px;
     }
 
     .menu-sample {
@@ -923,7 +923,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     #vegetarian {
-        height: 700px;
+        height: 600px;
     }
 
     #info {
@@ -1034,5 +1034,20 @@ h1, h2, h3, h4, h5, h6 {
 
     #booking {
         height: 1000px;
+    }
+}
+    /* extra small devices (small portrait phones, 320px and down) */
+
+@media (max-width: 320px) {
+    #about {
+        height: 920px;
+    }
+
+    #vegetarian {
+        height: 670px;
+    }
+
+    #menus {
+        height: 3000px;
     }
 }
