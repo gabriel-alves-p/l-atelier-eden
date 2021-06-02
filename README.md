@@ -4,7 +4,7 @@
 
 - You can find the deployed website [here](https://gabriel-alves-p.github.io/l-atelier-eden/).
 
-- This website was created as a user-centric project with the main goal of generating business by the means of a booking form whilst providing any information the customer might like to enquire about (E.g. about us information, menus, contact information, location and job applications).
+- Milestone Project 1 - A User-Centric Project as part of Code Institute's Software Development Course.
 
 ## Author
 Gabriel Alves
@@ -13,20 +13,23 @@ Gabriel Alves
 
 ![https://github.com/gabriel-alves-p/l-atelier-eden](documentation/images/responsive-website.jpeg)
 
-- The website targets adults within the UK whom are highly eager to experience a fine-dining experience out of the ordinary and for experienced hospitality workers looking to make the next move in their careers within the hospitality sector.
-
-- The website was designed to be easy to read and intuitive, with information about the restaurant, menus, contact information (including social media links) and location all found in the home page.
-
-- The footer contains policy information and gives the user the option to sign up to our monthly newsletter to stay in touch and make the restaurant feel that little bit friendlier.
-
-- The job application form and booking forms have their own dedicated pages to make the action of interacting with the restaurant feel like an activity separate from the informative part of the website and a more immersive activity.
-
-- The website was also designed with a thought of "less is more" kept in mind, whilst it showcases luxury, it is also simple enough to be scanned by the user very quickly and the font styles demonstrate that.
+This website was created as a user-centric project with the main goal of generating business by the means of a booking form whilst providing any information the customer might like to enquire about (E.g. about us information, menus, contact information, location and job applications).
 
 ## UX
 
 ### Project Goals
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+
+- The website targets adults within the UK whom are highly eager to indulge in a fine-dining experience out of the ordinary and for skilled hospitality workers looking to make the next move in their careers.
+
+- The website was designed to be easy to read and intuitive, with information about the restaurant, menus, contact details (including social media links) and our address all found in the home page.
+
+- The footer contains policy information and gives the user the option to sign up to our weekly newsletter, to stay in touch and make the restaurant feel that little bit friendlier.
+
+- The job application form and booking forms have their own dedicated pages to make the action of interacting with the restaurant feel like an activity separate from the informative part of the website and a more immersive experience.
+
+- The website was also designed with a thought of "less is more" kept in mind, whilst it showcases luxury, it is also simple enough to be scanned by the user very quickly and the font styles demonstrate that.
+
+- The website accom
 
 #### User Goals
 
