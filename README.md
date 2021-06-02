@@ -1,16 +1,27 @@
 # L'atelier Eden
 
-- Screenshot of logo/navigation of mobile deployed site
-- Include a link to deployed project with one line explanation of project
+![Website header in mobile viewport](documentation/images/website-header-mobile.jpeg)
+
+- You can find the deployed website [here](https://gabriel-alves-p.github.io/l-atelier-eden/).
+
+- This website was created as a user-centric project with the main goal of generating business by the means of a booking form whilst providing any information the customer might like to enquire about (E.g. about us information, menus, contact information, location and job applications).
 
 ## Author
 Gabriel Alves
 
 ## Project Overview
-- Include a picture of site that shows it in responsive states and links to deployed code: http://ami.responsivedesign.is/
-- One or two paragraphs providing an overview of your project.
-- Write this as a sales pitch or commercial making users want to purchase your website.
-- Include a link to your deployed website
+
+![https://github.com/gabriel-alves-p/l-atelier-eden](documentation/images/responsive-website.jpeg)
+
+- The website targets adults within the UK whom are highly eager to experience a fine-dining experience out of the ordinary and for experienced hospitality workers looking to make the next move in their careers within the hospitality sector.
+
+- The website was designed to be easy to read and intuitive, with information about the restaurant, menus, contact information (including social media links) and location all found in the home page.
+
+- The footer contains policy information and gives the user the option to sign up to our monthly newsletter to stay in touch and make the restaurant feel that little bit friendlier.
+
+- The job application form and booking forms have their own dedicated pages to make the action of interacting with the restaurant feel like an activity separate from the informative part of the website and a more immersive activity.
+
+- The website was also designed with a thought of "less is more" kept in mind, whilst it showcases luxury, it is also simple enough to be scanned by the user very quickly and the font styles demonstrate that.
 
 ## UX
 
