@@ -1,0 +1,120 @@
+/* careers.html logo */
+
+.careers-title {
+    margin-top: 0;
+    padding-top: 100px;
+}
+
+.careers {
+    width: 100%;
+    height: 500px;
+}
+
+/* careers.html apply section */
+
+.positions {
+    width: 80%;
+    font-size: 20px;
+}
+
+.vacancies {
+    text-align: left;
+    width: 300px;
+    margin: 20px auto;
+}
+
+.vacancies li::marker {
+    font-family: 'Font Awesome\ 5 Free';
+    content: '\f138';
+    font-weight: 900; 
+}
+
+.vacancies li {
+    padding: 5px 0 5px 10px;
+    font-size: 15px;
+
+}
+
+#apply ul {
+    list-style-type: none;
+}
+
+/* careers.html application form */
+
+.apply-background {
+    background: url('../images/careers-image-3.jpeg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
+    position: relative;
+    text-align: center;
+}
+
+.apply-form-outer {
+    background-color: rgba(0, 0, 0, .7);
+    width: 60%;
+    height: 80%;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    border: 2px solid #ffcc99;
+}
+
+.apply-form-outer h2 {
+    font-size: 30px;
+    padding: 20px;
+}
+
+#apply-form {
+    font-size: 15px;
+}
+
+#apply-form label {
+    width: 30%;
+    text-align: left;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#fname, #lname, #email, #cover-letter, #cv, #reset, #send-application {
+    background-color: rgba(0, 0, 0, .7);
+    display: inline-block;
+    color: #ffcc99;
+    width: 50%;
+    height: 32px;
+    padding: 5px;
+    border: 2px solid #ffcc99;
+    margin: 10px 50px 10px 0;
+}
+
+#reset:hover, #send-application:hover, #book:hover {
+    color: #1A5E63;
+    background-color: #ffcc99;
+    border: 2px solid #1A5E63;
+}
+
+#cover-letter, #cv {
+    border: none;
+    background-color: inherit;
+}
+
+#reset, #send-application {
+    width: 15%;
+    margin: 10px;
+}
+
+#send-application {
+    color: #ffcc99;
+    background-color: #1A5E63;
+    border: 2px solid #ffcc99;
+}
+
+.apply-form-outer p {
+    width: 80%;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: left;
+    font-size: 15px;
+}
