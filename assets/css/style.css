@@ -38,7 +38,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #navbar li {
-    display: inline-block;
     line-height: 75px;
     width: 20%;
     float: left;
@@ -599,9 +598,9 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-/* medium devices (tablets, 768px and down) */
+/* medium devices (tablets, 823px and down) */
 
-@media (max-width: 768px) {
+@media (max-width: 823px) {
 
     h2 {
         font-size: 40px;
@@ -937,9 +936,9 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
-/* smaller devices (portrait phones, 414px and down) */
+/* smaller devices (portrait phones, 425px and down) */
 
-@media (max-width: 414px) {
+@media (max-width: 425px) {
     #navbar {
         font-size: 14px;
         top: 0;
