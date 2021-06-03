@@ -52,7 +52,10 @@ This website was created as a user-centric project with the main goal of generat
 
 #### Developer Goals
 
-List out the goals as a developer you hope to achieve by making this website. 
+> - As a developer, I hope to have reached my client's expectations.
+> - As a developer, I hope to have created an aesthetically pleasing website.
+> - As a developer, I hope to have learned more about my code writting skills and improve upon the mistakes made.
+> - As a developer, I hope to have learned how to write cleaner code and implement such skill onto my next project.
 
 #### Website Owner Goals
 
