@@ -13,7 +13,7 @@ Gabriel Alves
 
 ![https://github.com/gabriel-alves-p/l-atelier-eden](documentation/images/responsive-website.jpeg)
 
-This website was created as a user-centric project with the main goal of generating business by the means of a booking form whilst providing any information the customer might like to enquire about (E.g. about us information, menus, contact information, location and job applications).
+This website was created as a user-centric project with the main goal of generating business by the means of a booking form whilst providing any information the customer might like to enquire about (E.g. about us information, menus, contact information, location and job applications). The website consists a landing page which has a hero video with a logo standing out in its center, an about us section, a menus section and a contact details section. It then has two separate pages dedicated to job applications and a booking form, respectively. All pages share the same fixed navigation bar at the top and footer at the bottom.
 
 ## UX
 
@@ -69,9 +69,30 @@ This website was created as a user-centric project with the main goal of generat
 > - As an owner, I want to provide potential job applicants with enough information about the website to help them decide wether the job would suit them or not.
 
 ### Design Choices
-Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.
 
-You may want to re-watch the videos about the [5 planes of UX development ](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/) when writing up this section
+Strategy Plane
+
+The website's ultimate goal is to accquire new customers and generate profit by means of showcasing the high standards in which the restaurant opperates and how much care goes into producing such experiences for the customers.
+The target audience are adults aged 20 years and over whom are interested in fine-dining.
+
+Scope Plane
+
+Features, based on the strategy plane, that made it onto the website include:
+> - A hero video showcasing the restaurant's outdoors, indoors and table planning.
+> - A logo that stands out over the hero video.
+> - A fixed and simple navigation bar at the top of the screen.
+> - An about us section explaining the restaurant's ethos and accolades.
+> - Images of the food to separate the sections
+> - A section showcasing our different menus and prices.
+> - Images of the food next to each menu.
+> - A section containing our opening hours, contact details and location with an iframe for an address on Google Maps.
+> - A separate page containing information about job applications.
+> - Images of staff working happily.
+> - An application form containing text, email, file, reset and submit inputs.
+> - A separate page containing information about how to make a booking.
+> - A booking form containing text, email, number, date, radio and submit inputs.
+> - A fixed and simple navigation bar across all pages.
+> - A simple footer across all pages.
 
 #### Colors
 
