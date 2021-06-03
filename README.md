@@ -33,15 +33,22 @@ This website was created as a user-centric project with the main goal of generat
 
 #### User Goals
 
-Write goals form the perspective of each user group of your website. Common types of users are:
-> - new customers
-> - existing customers
-> - admins 
-> - logged in user
-> - unauthenticated user
-> - future employers
-> - job recruiters
-> - followers
+> - As a new customer, I want to know what type of dining the restaurant offers (e.g. casual dining, fine dining, sharing plates etc.) upon reaching the landing page.
+> - As a new customer, I want to easily find out more information about the restaurant, its accolades and the Chef whom runs the restaurant.
+> - As a new customer, I want to intuitively find out more about menus and prices.
+> - As a new customer, I want to be able to see plenty of pictures of the food so I can best decide wether to go ahead and book a table or not.
+> - As a new customer, I want to be able to find out if the restaurant can accomodate any of my possible dietary requirements (e.g. veganism, vegetarianism, allergies, etc.).
+> - As a new customer, I want to be able to find out the address of the restaurant without having to contact its customer services.
+> - As a new customer, I want to be able to find out about the restaurant's opening hours and to be able to contact them via a telephone number and/or email address.
+> - As a new customer, I want to be able to view what the cancellation policy is and how it affects me.
+> - Both as a new and existing customer, I want to be able to succesfully book a table for either lunch or dinner.
+> - Both as a new and existing customer, I want to have the option of signing up to a newsletter to hear more about special menu offers.
+> - Both as a new and existing customer, I want to be positively impacted by the color tones of the website.
+> - Both as a new and existing customer, I want to intuitively read and/or scan the website and find it easy on the eyes.
+> - As an existing customer, I want to be able to find menus and menu prices to see if they have changed.
+> - As a job-seeker, I want to be able to find out more about the restaurant's ethos and what kind of cuisine and standards the restaurant works towards.
+> - As a job-seeker, I want to be able to find out if the restaurant is currently hiring for the position I am looking for.
+> - As a job-seeker, I want to be able to successfully apply for a role and know what to expect after doing so.
 
 #### Developer Goals
 
