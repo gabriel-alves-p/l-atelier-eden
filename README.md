@@ -29,7 +29,7 @@ This website was created as a user-centric project with the main goal of generat
 
 - The website was also designed with a thought of "less is more" kept in mind, whilst it showcases luxury, it is also simple enough to be scanned by the user very quickly and the font styles demonstrate that.
 
-- The website accom
+- The website is responsive from the largest desktop viewports to the smallest phone viewports.
 
 #### User Goals
 
