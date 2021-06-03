@@ -52,14 +52,20 @@ This website was created as a user-centric project with the main goal of generat
 
 #### Developer Goals
 
-> - As a developer, I hope to have reached my client's expectations.
+> - As a developer, I hope to have exceeded my client's expectations.
 > - As a developer, I hope to have created an aesthetically pleasing website.
 > - As a developer, I hope to have learned more about my code writting skills and improve upon the mistakes made.
 > - As a developer, I hope to have learned how to write cleaner code and implement such skill onto my next project.
+> - As a developer, I hope to have learned more about myself and how to persevere upon encountering bugs in my code.
 
 #### Website Owner Goals
 
-List out any goals a website owner would have for this website. You may not develop them, but investors would want to know how they could make money.
+> - As an owner, I want to easily express the luxiouriousness in the experience offered by my business.
+> - As an owner, I want to make sure the user finds the website easy to read and intuitive.
+> - As an owner, I want to showcase pictures of my restaurant and the food so customers may be drawn in.
+> - As an owner, I want to make the booking action as easy and intuitive as possible, with as little information to be filled out as necessary for a successful booking.
+> - As an owner, I want to have our contact information and opening hours displayed so new customers have option to get in touch with us would they choose to do so.
+> - As an owner, I want to ultimately generate more business by means of a booking system.
 
 ### User Stories
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
