@@ -33,20 +33,20 @@ This website was created as a user-centric project with the main goal of generat
 
 #### User Goals
 
-> - As a new customer, I want to know what type of dining the restaurant offers (e.g. casual dining, fine dining, sharing plates etc.) upon reaching the landing page.
-> - As a new customer, I want to easily find out more information about the restaurant, its accolades and the Chef whom runs the restaurant.
-> - As a new customer, I want to intuitively find out more about menus and prices.
-> - As a new customer, I want to be able to see plenty of pictures of the food so I can best decide wether to go ahead and book a table or not.
-> - As a new customer, I want to be able to find out if the restaurant can accomodate any of my possible dietary requirements (e.g. veganism, vegetarianism, allergies, etc.).
-> - As a new customer, I want to be able to find out the address of the restaurant without having to contact its customer services.
+> - As a new customer, I want to know what type of dining the restaurant offers (e.g. casual dining, fine dining, sharing plates etc.) upon reaching the landing page, so I can decide to either leave or stay within the first scan.
+> - As a new customer, I want to easily find out more information about the restaurant, its accolades and the Chef whom runs the restaurant, so I know what kind of standards to expect.
+> - As a new customer, I want to find out more about menus and prices, so I can decide wether the cuisine suits my taste and/or is worth the price.
+> - As a new customer, I want to be able to see plenty of pictures of the food, so I can best decide wether to go ahead and book a table or not.
+> - As a new customer, I want to be able to find out if the restaurant can accomodate any of my possible dietary requirements (e.g. veganism, vegetarianism, allergies, etc.), so I can go ahead with the booking or leave the page.
+> - As a new customer, I want to be able to find out the address of the restaurant without having to contact its customer services, so I can see how far I would have to travel were I to book a table.
 > - As a new customer, I want to be able to find out about the restaurant's opening hours and to be able to contact them via a telephone number and/or email address.
 > - As a new customer, I want to be able to view what the cancellation policy is and how it affects me.
 > - Both as a new and existing customer, I want to be able to succesfully book a table for either lunch or dinner.
-> - Both as a new and existing customer, I want to have the option of signing up to a newsletter to hear more about special menu offers.
+> - Both as a new and existing customer, I want to have the option of signing up to a newsletter, so I can hear more about special menu offers.
 > - Both as a new and existing customer, I want to be positively impacted by the color tones of the website.
 > - Both as a new and existing customer, I want to intuitively read and/or scan the website and find it easy on the eyes.
-> - As an existing customer, I want to be able to find menus and menu prices to see if they have changed.
-> - As a job-seeker, I want to be able to find out more about the restaurant's ethos and what kind of cuisine and standards the restaurant works towards.
+> - As an existing customer, I want to be able to find menus and menu prices, so I can see if they have changed.
+> - As a job-seeker, I want to be able to find out more about the restaurant's ethos and what kind of cuisine and standards the restaurant works towards, so I can best decide if it suits me.
 > - As a job-seeker, I want to be able to find out if the restaurant is currently hiring for the position I am looking for.
 > - As a job-seeker, I want to be able to successfully apply for a role and know what to expect after doing so.
 
@@ -66,11 +66,7 @@ This website was created as a user-centric project with the main goal of generat
 > - As an owner, I want to make the booking action as easy and intuitive as possible, with as little information to be filled out as necessary for a successful booking.
 > - As an owner, I want to have our contact information and opening hours displayed so new customers have option to get in touch with us would they choose to do so.
 > - As an owner, I want to ultimately generate more business by means of a booking system.
-
-### User Stories
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
+> - As an owner, I want to provide potential job applicants with enough information about the website to help them decide wether the job would suit them or not.
 
 ### Design Choices
 Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.
