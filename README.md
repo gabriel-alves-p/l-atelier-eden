@@ -72,7 +72,7 @@ This website was created as a user-centric project with the main goal of generat
 
 Strategy Plane
 
-The website's ultimate goal is to accquire new customers and generate profit by means of showcasing the high standards in which the restaurant opperates and how much care goes into producing such experiences for the customers.
+The website's ultimate goal is to advertise their work, accquire new customers and generate profit by means of showcasing the high standards in which the restaurant opperates to and how much care goes into producing such experiences for the customers.
 The target audience are adults aged 20 years and over whom are interested in fine-dining.
 
 Scope Plane
@@ -94,6 +94,17 @@ Features, based on the strategy plane, that made it onto the website include:
 > - A fixed and simple navigation bar across all pages.
 > - A simple footer across all pages.
 
+Structure Plane
+
+The information on the home was designed to be structured by priority, so that the first thing the customer reads as they scroll down is a description of what the restaurant does and what it has achieved in the past. That gives the user more confidence as they scroll down to the second section, which contain the menus and the prices. Finally the user finds the contact information and address, grouped together.
+
+The same format was followed across the bookings and job application pages, with a brief overview of the topic to give the user more information and confidence to scroll down and fill out the forms.
+
+The same navigation bar and footer are found across all three pages, to provide the user with intuitiviness.
+
+
+
+
 #### Colors
 
 - Discuss your color pallet choices and how it ties into users' emotions or target audience.
@@ -108,29 +119,6 @@ Features, based on the strategy plane, that made it onto the website include:
 
 Explain why you used certain icons and images on your site
 
-#### Design Elements
-
-- list out the type of elements you want to use on your site, this will help you  when choosing a framework and goes hand in hand when doing the wireframes. If you did something out of the ordinary, or think something was particularly clever, add a sentence and a screenshot or reference the file the code or css is in.
-
-> - top menu (desktop navigation)
-> - sidebar menu (mobile navigation)
-> - footer
-> - containers/cards
-> - buttons
-> - text input
-> - textarea inputs
-> - dropdowns
-> - modals/layers
-> - check boxes
-> - switches
-> - accordions
-> - pagination
-> - datepickers
-> - maps
-> - images
-> - tooltips
-> - icons
-
 #### Animations and Transitions
 
 - discuss any special animations or transitions you've included 
@@ -138,17 +126,19 @@ Explain why you used certain icons and images on your site
 
 ### Wireframes
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in a separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in a separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser. 
+
+Wireframes can be as simple as a picture of a drawing of how you envisioned laying out the information for you pages in desktop, tablet and mobile views. They are a roadmap and do not have to be 100% accurate of the final product.
 
 ### Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+In this section, you should go over the different parts of your project, and describe each in a sentence or so and how they tie into  your user stories.
 
 #### Implemented Features
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
-It's easiest to break this section down into the header, footer, layer, and each page of your website. Call out any differences for mobile vs desktop presentations, include a screenshot.
+It's easiest to break this section down into the header, footer, and each page/layer of your website. Call out any differences for mobile vs desktop presentations, include a screenshot of the implemented feature.
 
 Don't forget your 404 error page.
 
@@ -157,51 +147,6 @@ Don't forget your 404 error page.
 Use this section to discuss plans for additional features to be implemented in the future:
 
 If you end up not developing some features you hoped to implement, you can include those in this section.
-
-## Technologies Used
-
-In this section, you should mention the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- If you included a js file that isn't your own, add it here.
-
-- If you included a css file that isn't your own, add it here.
-
-- Common 3rd party technologies to list:
-  - wirefames
-  - favicons
-  - color palette images
-  - fonts
-  - CSS Frameworks
-  - markdown tables
-  - markdown table of contents
-  
-Please note, if this gets more than 5 items, you may want to break it down into logical subsections
-
-### Programing Languages
-- [JQuery](https://jquery.com) The project uses **JQuery** to simplify DOM manipulation.
-- [CSS](https://www.w3schools.com/w3css/default.asp) The project uses **CSS** to define DOM appearance. 
-- [HTML](https://www.w3schools.com/html/default.asp) The project uses **HTML** to define DOM elements.
-- [Markdown](https://www.markdownguide.org/) Documentation within the readme was generated using markdown
-
-### Frameworks and Extensions
-- [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/) Rather than re-invent many things, I chose to customize the look and feel of bootstrap 4.0 
-- [google sheets & drive](https://drive.google.com/drive/folders/1mYY4M0jXf6sPWesmP9Q-wFvjpgT1v8IU?usp=sharing) - Used to create testing documents and project plan (feature to do list) 
-
-### Fonts
-- [FontAwesome](https://fontawesome.com/icons?m=free) - for icons associated with buttons and inputs
-- [Patrick Hand SC](https://fonts.google.com/specimen/Patrick+Hand+SC) - Google Font's Patrick Hand font was used for headers and home page dialog
-- [Raleway](https://fonts.google.com/specimen/Raleway) - Google's Raleway font was used as the main font
-
-### Tools
-- [github](https://github.com/) - used for version control of project files and branching out to try different things without adversely affecting a functional set of code
-- [balsamiq](https://balsamiq.com/) - used to create professional looking wire frames.
-- [markdown table generator](https://www.tablesgenerator.com/markdown_tables) - used to help with documentation table formatting
-- [mardown table of contents generator](https://ecotrust-canada.github.io/markdown-toc/) - used to create table of contents (be weary it does have some bugs if you have dashes or trailing spaces in your headers)
-- [colors.co](https://coolors.co/) I used a colors.co's color pallet tool to help pick complementary colors.
-
-### APIs
-- [SMTP](https://github.com/python/cpython/blob/3.8/Lib/smtplib.py) - Send emails to users 
-- [Google Maps Javascript API](https://developers-dot-devsite-v2-prod.appspot.com/maps/documentation/javascript/examples/) - Customized Mapping Widgets
 
 
 ## Testing
@@ -232,11 +177,6 @@ Create a table that lists out what devices, browsers, and operating system you t
 | browserstack                  | Chrome      | windows    | XL 1920 x 946 |
 | real computer: mac book pro   | safari 12.1 | Mohave     | XL 1400 x 766 |
 | browserstack                  | IE Edge 88  | windows 10 | XL 1920 x 964 |
-
-### Automated Testing
-Whenever it is feasible, automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-If you did not run automating testing. State why you chose not to.
 
 ### Manual Testing
 
@@ -273,24 +213,30 @@ Some defects are more pesky than others. Highlight 3-5 of the bugs that drove yo
 ### Outstanding Defects
 It's ok to not resolve all the defects you found. If you know of something that isn't quite right, list it out and explain why you chose not to resolve it.
 
+## Accessibility
+
+Accessibility testing is aimed to make sure that those with visual or physical disabilities can still browse your website. Some users have had strokes or accidents that make it difficult to use a mouse so they use keyboard keys to tab through sites. Others use screen readers that rely on HTML tags to help the user navigate quickly through the site to find information they want, others have color blindness or contrast issues. It's the law to provide services 
+Here's a [site](https://www.w3.org/WAI/fundamentals/accessibility-intro/#:~:text=Accessibility%20is%20Important%20for%20Individuals%2C%20Businesses%2C%20Society,-The%20Web%20is&text=That%20is%2C%20the%20accessibility%20barriers,older%20people) where you can learn more about accessibility and the internet.
+
+### Lighthouse Audits
+You should run your deployed website pages through lighthouse's audit to check performance, accessibility, best practices and SEO scores. You should aim to get 85 or higher score. 
+https://web.dev/measure/  If you have lower scores, read the report and follow the links to address the flagged issues. You can run this tool from Chrome Dev Tools too against your local machine, but the performance will the worst (I personally ignore my performance results unless it's deployed code. I hope for > 60 on that mark, but > 85 on the other 3)
+
+### Keyboard Navigation
+Another way to accessibility test you site is to try to click on the browser and see what happens if you use the tab, arrow and enter keys. Does it work well or does the user get stuck?
+
 
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages).
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any.
+Enumerate steps and use screenshots to make the instructions are clear.
 
-Remember to use proper markdown for commands and enumerated steps.
 
-### Deploy Locally
+You may want to re-watch the [initial deployment in gitpod video](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/9b06129195c64fada6783de9cfe82d60/) when writing up this section.
 
-Write out the steps you take starting from cloning the repository in github or clicking a gitpod button to run your code locally. Test it out and make sure it works. This can be running from your IDE of choice like VSCode or PyCharm or GitPod.
 
-You may want to re-watch the [initial deployment in gitpod video](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/dcd449bd41a446f49df3268f91dd06fc/072c95175f1148438de9d82e7a756ee1/?child=first) when writing up this section.
-
-### Deploy To GitHub Pages
-
-Write out steps you would take and test them to deploy your code to GitHub Pages.
+Write out steps you would take and test them to deploy your code to GitHub Pages, include screenshots if you think they would make the process easier.
 
 ## Credits
 
