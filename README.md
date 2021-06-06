@@ -104,15 +104,13 @@ The same navigation bar and footer are found across all three pages, to provide 
 
 #### Skeleton Plane
 
-At the early stages of UXD planning, it was decided that the navigation bar would be fixed at the top of the screen, containing links to each and every section on the website, being the main way the user will navigate through the website. A hero-video with the restaurant's logo highlighted in the center would be used to set the feeling for the website at the landing page.
+- At the early stages of UXD planning, it was decided that the navigation bar would be fixed at the top of the screen, containing links to each and every section on the website, being the main way the user will navigate through the website. A hero-video with the restaurant's logo highlighted in the center would be used to set the feeling for the website at the landing page.
 Followed then by the 'about us' section, which would then contain two pictures that contrasted with the page's background color, to create a division.
 It would then be followed by a brief introduction to the menus, then the menus would follow, covering 50% of the screen, each with an image linked to a dish on the menus covering the remaining 50% of the screen.
 A 'contact us' section would then follow, as per the priority levels decided in the structure plane. This section would cover 100% of the screen width and contain both information about how to get in touch with the restaurant, should the user require to do so, and the location including a Google Maps iframe.
 The landing page ends with a footer containing terms & conditions, privacy policy and cookie policy on the left side of the screen and an option to subscribe to the restaurant's newsletter on the right.
 
 The careers and bookings pages would contain the same navigation bar and footer, with a heading and a few paragraphs introducing the user to the page, followed by the forms, which would contain the same styling and same fixed background style to keep in accordance with the website's design.
-
-
 
 #### Colors
 

@@ -912,6 +912,15 @@ h1, h2, h3, h4, h5, h6 {
         margin: 10px;
     }
 
+    .time-label {
+        width: 50%!important;
+        display: inline-block!important;
+    }
+
+    #book {
+        margin: 50px 10px;
+    }
+
     .booking-background {
         background-size: cover;
         height: 1100px;
