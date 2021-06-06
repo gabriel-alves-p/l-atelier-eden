@@ -70,12 +70,12 @@ This website was created as a user-centric project with the main goal of generat
 
 ### Design Choices
 
-Strategy Plane
+#### Strategy Plane
 
 The website's ultimate goal is to advertise their work, accquire new customers and generate profit by means of showcasing the high standards in which the restaurant opperates to and how much care goes into producing such experiences for the customers.
 The target audience are adults aged 20 years and over whom are interested in fine-dining.
 
-Scope Plane
+#### Scope Plane
 
 Features, based on the strategy plane, that made it onto the website include:
 > - A hero video showcasing the restaurant's outdoors, indoors and table planning.
@@ -94,7 +94,7 @@ Features, based on the strategy plane, that made it onto the website include:
 > - A fixed and simple navigation bar across all pages.
 > - A simple footer across all pages.
 
-Structure Plane
+#### Structure Plane
 
 The information on the home was designed to be structured by priority, so that the first thing the customer reads as they scroll down is a description of what the restaurant does and what it has achieved in the past. That gives the user more confidence as they scroll down to the second section, which contain the menus and the prices. Finally the user finds the contact information and address, grouped together.
 
@@ -102,6 +102,15 @@ The same format was followed across the bookings and job application pages, with
 
 The same navigation bar and footer are found across all three pages, to provide the user with intuitiviness.
 
+#### Skeleton Plane
+
+At the early stages of UXD planning, it was decided that the navigation bar would be fixed at the top of the screen, containing links to each and every section on the website, being the main way the user will navigate through the website. A hero-video with the restaurant's logo highlighted in the center would be used to set the feeling for the website at the landing page.
+Followed then by the 'about us' section, which would then contain two pictures that contrasted with the page's background color, to create a division.
+It would then be followed by a brief introduction to the menus, then the menus would follow, covering 50% of the screen, each with an image linked to a dish on the menus covering the remaining 50% of the screen.
+A 'contact us' section would then follow, as per the priority levels decided in the structure plane. This section would cover 100% of the screen width and contain both information about how to get in touch with the restaurant, should the user require to do so, and the location including a Google Maps iframe.
+The landing page ends with a footer containing terms & conditions, privacy policy and cookie policy on the left side of the screen and an option to subscribe to the restaurant's newsletter on the right.
+
+The careers and bookings pages would contain the same navigation bar and footer, with a heading and a few paragraphs introducing the user to the page, followed by the forms, which would contain the same styling and same fixed background style to keep in accordance with the website's design.
 
 
 
