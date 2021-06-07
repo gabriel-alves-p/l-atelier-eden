@@ -189,27 +189,23 @@ This project consists of three distinct pages: home page, careers and bookings. 
 ## Testing
 
 ### Validation Testing
-You should try to ensure you code is valid and follows proper indentation.  In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
 
-- [CSS Validator](https://jigsaw.w3.org/css-validator/) Note, any error associated with root: color variables were ignored.
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
 - [HTML Validator](https://validator.w3.org/)
 
 ### Cross Browser and Cross Device Testing
-Create a table that lists out what devices, browsers, and operating system you tested your application on and a brief description of why you chose the mixture you did. The point is to prove that you looked at the site across various browsers, operating systems, and viewport breakpoints.
 
 | TOOL / Device                 | BROWSER     | OS         | SCREEN WIDTH  |
 |-------------------------------|-------------|------------|---------------|
-| real phone: motog6            | chrome      | android    | XS 360 x 640  |
-| browser stack: iPhone5s       | safari      | iOs        | XS 320 x 568  |
-| dev tools emulator: pixel 2   | firefox     | android    | SM 411 x 731  |
-| browserstack: iPhone 10x      | Chrome      | iOs        | SM 375 x 812  |
-| browserstack: nexus 7 - vert  | Chrome      | android    | M 600 x 960   |
-| real tablet: ipad mini - vert | safari      | iOs        | M 768 x 1024  |
-| browserstack: nexus 7 - horiz | firefox     | android    | LG 960 x 600  |
-| chrome emulator: ipad - horiz | safari      | iOs        | LG 1024 x 768 |
-| browserstack                  | Chrome      | windows    | XL 1920 x 946 |
-| real computer: mac book pro   | safari 12.1 | Mohave     | XL 1400 x 766 |
-| browserstack                  | IE Edge 88  | windows 10 | XL 1920 x 964 |
+| Real Phone: iPhone XS Max     | Safari      | iOs.       | S/M 414 x 896 |
+| Real Phone: iPhone 12.        | Chrome      | iOs        | S  390 x 844  |
+| Real Computer: MacBook Pro    | Firefox     | Big Sur    | L  1240 x 768 |
+| Chrome Emulator: Surface Duo  | Chrome      | Android    | M  540 x 720  |
+| Safari Emulator: iPad         | Safari      | iOs        | M 768 x 1024  |
+| Chrome Emulator: iPad mini    | Chrome      | iOs        | M 768 x 1024  |
+| Firefox Emulator: iPad Pro    | Firefox     | Android    | L 1024 x 1366 |
+| Firefox Emulator: iPad Pro Hz | Firefox     | iOs        | L 1366 x 1024 |
+| Real Computer: MacBook Pro XL | Safari      | Big Sur    | XL 1752 x 960 |
 
 ### Manual Testing
 
