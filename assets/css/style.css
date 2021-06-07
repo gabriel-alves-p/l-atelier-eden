@@ -600,6 +600,10 @@ h1, h2, h3, h4, h5, h6 {
     .careers-title {
         width: 70%;
     }
+
+    .vacancies {
+        width: 50%!important;
+    }
 }
 
 /* medium devices (tablets, 823px and down) */
@@ -1094,6 +1098,10 @@ h1, h2, h3, h4, h5, h6 {
 
     .careers {
         height: 300px;
+    }
+
+    .vacancies {
+        margin: 0 auto!important;
     }
 
     /* small devices (portrait phones, 375px and down) */
