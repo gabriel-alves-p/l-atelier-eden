@@ -152,28 +152,41 @@ The careers and bookings pages would contain the same navigation bar and footer,
 
 ### Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so and how they tie into  your user stories.
+This project consists of three distinct pages: home page, careers and bookings. They have all been designed to be responsive for all mobile and desktop devices.
 
-#### Implemented Features
+#### Home Page
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+- It acts as the landing page for the website and contains all the main information the user could be looking for, structured in a priority order. It contains information about the restaurant, menus and prices, contact information and location. It was designed this way to be intuititve and make sure the user does not have to look hard at all to find important information.
 
-It's easiest to break this section down into the header, footer, and each page/layer of your website. Call out any differences for mobile vs desktop presentations, include a screenshot of the implemented feature.
+#### Careers
 
-Don't forget your 404 error page.
+- The careers page stands out on its own, separate from the main content, as it is my understanding most users will not be interested in this section. Nonetheless, it still feels very much a part of the same website, with the same type of heading and paragraph content to introduce you to the section, followed by staff pictures to give the page more of a purpose-filled feel, then it informs the user of the positions available for application, and finally the application form, kept as simple and in accordance with the design of the website as possible.
 
-#### Future Features
+#### Booking
 
-Use this section to discuss plans for additional features to be implemented in the future:
+- The bookings page, much like the careers page, is found separate from the main content. It is however, for a different reason. The page is kept separate to make the act of booking a table exclusive and immersive to the user. It includes the same format of the careers page, a heading, paragraph content to inform the user, and then finally the booking form, where the user can submit their details in for an experience with the restaurant,
 
-If you end up not developing some features you hoped to implement, you can include those in this section.
+#### Navigation Bar
 
+- All three pages share the same fixed navigation bar at the top, keeping in format with the intuitivity of the website, helping the user get anywhere, from anywhere.
+
+#### Footer
+
+- All three pages share the same footer at the bottom of the page, keeping it uniform and making sure the user can get to the footer regardless of which page they are on.
+
+#### Responsiveness
+
+- All pages have been designed to be responsive from the largest of desktop devices to the smallest of mobile devices.
+
+### Future Features
+
+- In the future I would like to implemment an OpenTable calendar iframe to the bookings form, making it easier to book a table.
+- screenshot of calendar
+
+- In the future, I would like to introduce separate pages for "terms of use, privacy policy & cookies policy".
+- screenshot of footer-left
 
 ## Testing
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Validation Testing
 You should try to ensure you code is valid and follows proper indentation.  In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
