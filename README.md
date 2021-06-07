@@ -123,24 +123,32 @@ The careers and bookings pages would contain the same navigation bar and footer,
 
 #### Typography
 
-- discuss font size, font types for headers vs buttons vs general text and how it ties into users' emotions or target audience.
 - The fonts were chosen purely aesthetically. The logo font (Libre Baskerville) was chosen to give the user a sense of finesse and class. Whilst the content font (Lato) was chosen to be a simple, clean and easy to read font, so it is easy on the eyes of the user whilst reading or scanning through the content.
 - include screenshots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
 
 #### Images
 
-Explain why you used certain icons and images on your site
+- The images found on the website were chosen to showcase the culinary and the hospitality of the restaurant, they were chosen to contrast with the background color of the website and stand out from any other features on the website.
+- The icons were chosen to be simple and have a minimal ::hover effect. They are there to add extra finesse to the menus and to give the social media links a more interesting look.
+- The thought process behind these was "a picture speaks a thousand words".
+- Screenshot of pictures.
+- Screenshot of icons.
 
-#### Animations and Transitions
+#### Animations
 
-- discuss any special animations or transitions you've included 
-- special hover state effects
+- Social media icons scale up when hovered over.
+
+- screenshot of media icons.
+
+#### Transitions
+
+- Smooth scrolling added to the website when directed to a section on home page through the navigation bar.
+
+- Hero images transition via means of a video added to the header.
 
 ### Wireframes
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in a separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser. 
-
-Wireframes can be as simple as a picture of a drawing of how you envisioned laying out the information for you pages in desktop, tablet and mobile views. They are a roadmap and do not have to be 100% accurate of the final product.
+- Wireframes sketched for this project can be viewed [here](https://drive.google.com/file/d/1_isDYdImHXlCSWMB9GdZRoAzCxiXuB5I/view?usp=sharing).
 
 ### Features
 
