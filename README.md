@@ -124,21 +124,29 @@ The careers and bookings pages would contain the same navigation bar and footer,
 #### Typography
 
 - The fonts were chosen purely aesthetically. The logo font (Libre Baskerville) was chosen to give the user a sense of finesse and class. Whilst the content font (Lato) was chosen to be a simple, clean and easy to read font, so it is easy on the eyes of the user whilst reading or scanning through the content.
-- include screenshots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
+
+- Heading font https://fonts.google.com/specimen/Libre+Baskerville?query=libre+
+- Paragraph font https://fonts.google.com/specimen/Lato?query=lato
+
+![Website's fonts](documentation/images/about-us.jpeg)
 
 #### Images
 
 - The images found on the website were chosen to showcase the culinary and the hospitality of the restaurant, they were chosen to contrast with the background color of the website and stand out from any other features on the website.
 - The icons were chosen to be simple and have a minimal ::hover effect. They are there to add extra finesse to the menus and to give the social media links a more interesting look.
 - The thought process behind these was "a picture speaks a thousand words".
-- Screenshot of pictures.
-- Screenshot of icons.
+
+![Website's images](documentation/images/images.jpeg)
+![Website's icons](documentation/images/icons1.jpeg)
+![Website's icons](documentation/images/icons2.jpeg)
+![Website's icons](documentation/images/icons3.jpeg)
+![Website's icons](documentation/images/icons4.jpeg)
 
 #### Animations
 
 - Social media icons scale up when hovered over.
 
-- screenshot of media icons.
+![Hovering icons](documentation/images/hover-effect.jpeg)
 
 #### Transitions
 
@@ -231,7 +239,7 @@ This project consists of three distinct pages: home page, careers and bookings. 
 
 ### Lighthouse Audits
 
-- insert lighthouse screenshot
+![Lighthouse score](documentation/images/lighthouse.jpeg)
 
 ### Keyboard Navigation
 
@@ -251,6 +259,8 @@ This project consists of three distinct pages: home page, careers and bookings. 
 ### Content
 
 - The following content was taken from https://www.corebyclaresmyth.com/
+
+- The following content was taken from https://www.lenclume.co.uk/restaurant
 
 - The following content was taken from https://galvinrestaurants.com/
 
