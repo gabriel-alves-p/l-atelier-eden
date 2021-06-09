@@ -137,9 +137,13 @@ The careers and bookings pages would contain the same navigation bar and footer,
 - The thought process behind these was "a picture speaks a thousand words".
 
 ![Website's images](documentation/images/images.jpeg)
+
 ![Website's icons](documentation/images/icons1.jpeg)
+
 ![Website's icons](documentation/images/icons2.jpeg)
+
 ![Website's icons](documentation/images/icons3.jpeg)
+
 ![Website's icons](documentation/images/icons4.jpeg)
 
 #### Animations
@@ -253,6 +257,14 @@ This project consists of three distinct pages: home page, careers and bookings. 
 4. Select the 'Branch' 'master' and click on 'Save'.
 5. Allow GitHub a few minutes to deploy the website and then refresh the page.
 6. Website deployed.
+
+![Deployment 1](documentation/images/deployment1.jpeg)
+
+![Deployment 2](documentation/images/deployment2.jpeg)
+
+![Deployment 3](documentation/images/deployment3.jpeg)
+
+![Deployment 4](documentation/images/deployment4.jpeg)
 
 ## Credits
 
