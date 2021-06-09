@@ -272,11 +272,23 @@ This project consists of three distinct pages: home page, careers and bookings. 
 
 - The following content was taken from https://www.corebyclaresmyth.com/
 
+![Core content](documentation/images/about-us.jpeg)
+
+![Core content](documentation/images/careers.jpeg)
+
+![Core content](documentation/images/cancellation.jpeg)
+
 - The following content was taken from https://www.lenclume.co.uk/restaurant
+
+![L'enclume content](documentation/images/tasting.jpeg)
 
 - The following content was taken from https://galvinrestaurants.com/
 
+![Galvin content](documentation/images/vegetarian.jpeg)
+
 - The following content was taken from https://www.elystanstreet.com/
+
+![Elystan Street content](documentation/images/a-la-carte.jpeg)
 
 ### Media
 
