@@ -200,33 +200,16 @@ This project consists of three distinct pages: home page, careers and bookings. 
 | Real Phone: iPhone XS Max     | Safari      | iOs.       | S/M 414 x 896 |
 | Real Phone: iPhone 12.        | Chrome      | iOs        | S  390 x 844  |
 | Real Computer: MacBook Pro    | Firefox     | Big Sur    | L  1240 x 768 |
-| Chrome Emulator: Surface Duo  | Chrome      | Android    | M  540 x 720  |
-| Safari Emulator: iPad         | Safari      | iOs        | M 768 x 1024  |
-| Chrome Emulator: iPad mini    | Chrome      | iOs        | M 768 x 1024  |
-| Firefox Emulator: iPad Pro    | Firefox     | Android    | L 1024 x 1366 |
-| Firefox Emulator: iPad Pro Hz | Firefox     | iOs        | L 1366 x 1024 |
+| Chrome DevTools: Surface Duo  | Chrome      | Android    | M  540 x 720  |
+| Safari DevTools: iPad         | Safari      | iOs        | M 768 x 1024  |
+| Chrome DevTools: iPad mini    | Chrome      | iOs        | M 768 x 1024  |
+| Firefox DevTools: iPad Pro    | Firefox     | Android    | L 1024 x 1366 |
+| Firefox DevTools: iPad Pro Hz | Firefox     | iOs        | L 1366 x 1024 |
 | Real Computer: MacBook Pro XL | Safari      | Big Sur    | XL 1752 x 960 |
 
 ### Manual Testing
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-    
-Here is a [Manual Testing Template](https://docs.google.com/spreadsheets/d/189VpSeEG9oevSRhvb2WZl8zCk9L3s2iWQyrJ_1jjAGQ/edit?usp=sharing) that you can use as a starting point to keep track of your testing efforts. Make a copy of it in your own account and update as needed to reflect the browsers you are testing and features.  
-
-It's ok to spot check specific functionality across devices and browsers but each page should be viewed as a whole for each device/browser combo at least once.
-
-A quick way to check if items are exceeding the screen width of a project is to run this javascript in the console for various screen emulations:
-
-```
-var docWidth = document.documentElement.offsetWidth;
-[].forEach.call(document.querySelectorAll('*'),function(el){if(el.offsetWidth > docWidth){console.log(el);}});
-```
+- Manual Testing for this project can be found [here](https://docs.google.com/spreadsheets/d/1acPB5xdVpJIHv4YUpYRCyhFIdUnEWh5nJjfzOq_zecE/edit#gid=87359594).
 
 ### Defect Tracking
 
