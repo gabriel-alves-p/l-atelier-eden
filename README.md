@@ -213,54 +213,60 @@ This project consists of three distinct pages: home page, careers and bookings. 
 
 ### Defect Tracking
 
-You should mention  any  bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-Here is a [Defect Tracking Template](https://docs.google.com/spreadsheets/d/1tYB4X4wTCNEW_Y1no3hsGbclh2bLokl_I5Ev3s5EuJA/edit?usp=sharing) you use as a starting point to track defects. Make a copy of the sheet to your own account and update the Features sheet to match your project. 
-
+- Defect Tracking for this project can be found [here](https://docs.google.com/spreadsheets/d/1b_xzFv6lWyq19zclKMnFeP_zos07qeLeMpvfBFZDBSY/edit#gid=891834841).
 
 ### Defects of Note
-Some defects are more pesky than others. Highlight 3-5 of the bugs that drove you the most nuts and how you finally ended up resolving them.
 
+- Aligning radio buttons and their labels on the booking form was by far the bug that took the most attention to solve. It was solved with the help of my mentor (Malia Havlicek) by overriding a style set by an ID with the '!important' element.
+
+- Smoothing out the edges of the logo background took some time also, it was finally solved by the use of the 'box-shadow' element, which I found whilst researching on [W3Schools](https://www.w3schools.com/).
+
+- Since the Google Maps iFrame was imported with some styles pre-set, I found it difficult to override some of them and centralize the iFrame within it's parent division. I managed to solve this by using 'margin: 0 auto;' which was found in one of my lessons with Code Institute.
 
 ### Outstanding Defects
-It's ok to not resolve all the defects you found. If you know of something that isn't quite right, list it out and explain why you chose not to resolve it.
+
+- A few margins need some slight adjusting for mobile viewports, will be done in future works.
 
 ## Accessibility
 
-Accessibility testing is aimed to make sure that those with visual or physical disabilities can still browse your website. Some users have had strokes or accidents that make it difficult to use a mouse so they use keyboard keys to tab through sites. Others use screen readers that rely on HTML tags to help the user navigate quickly through the site to find information they want, others have color blindness or contrast issues. It's the law to provide services 
-Here's a [site](https://www.w3.org/WAI/fundamentals/accessibility-intro/#:~:text=Accessibility%20is%20Important%20for%20Individuals%2C%20Businesses%2C%20Society,-The%20Web%20is&text=That%20is%2C%20the%20accessibility%20barriers,older%20people) where you can learn more about accessibility and the internet.
-
 ### Lighthouse Audits
-You should run your deployed website pages through lighthouse's audit to check performance, accessibility, best practices and SEO scores. You should aim to get 85 or higher score. 
-https://web.dev/measure/  If you have lower scores, read the report and follow the links to address the flagged issues. You can run this tool from Chrome Dev Tools too against your local machine, but the performance will the worst (I personally ignore my performance results unless it's deployed code. I hope for > 60 on that mark, but > 85 on the other 3)
+
+- insert lighthouse screenshot
 
 ### Keyboard Navigation
-Another way to accessibility test you site is to try to click on the browser and see what happens if you use the tab, arrow and enter keys. Does it work well or does the user get stuck?
 
+- The website has been tested for keyboard navigation and successfully allows the user to navigate the website with the tab key.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages).
-
-Enumerate steps and use screenshots to make the instructions are clear.
-
-
-You may want to re-watch the [initial deployment in gitpod video](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/9b06129195c64fada6783de9cfe82d60/) when writing up this section.
-
-
-Write out steps you would take and test them to deploy your code to GitHub Pages, include screenshots if you think they would make the process easier.
+1. Go to repository created on GitHub.
+2. Click on 'Settings'.
+3. Scroll down and click on 'Pages' on the left hand side menu.
+4. Select the 'Branch' 'master' and click on 'Save'.
+5. Allow GitHub a few minutes to deploy the website and then refresh the page.
+6. Website deployed.
 
 ## Credits
 
-To avoid plagiarism amd copyright infringement, you should mention any other projects, stackoverflow, videos, blogs, etc that you used to gather imagery or ideas for your code even if you used it as a starting point and modified things. Giving credit to other people's efforts and ideas that saved you time acknowledges the hard work others did. 
-
 ### Content
 
-Use bullet points to list out sites you copied text from and cross-reference where those show up on your site
+- The following content was taken from https://www.corebyclaresmyth.com/
+
+- The following content was taken from https://galvinrestaurants.com/
+
+- The following content was taken from https://www.elystanstreet.com/
 
 ### Media
 
-Make a list of sites you used images from. If you used several sites try to match up each image to the correct site. This includes attribution for icons if they came from font awesome or other sites, give them credit.
+- The following media was taken from https://www.belmond.com/hotels/europe/uk/oxfordshire/belmond-le-manoir-aux-quat-saisons/
+
+- The following media was taken from https://www.corebyclaresmyth.com/
+
+- The following media was taken from https://trinityrestaurant.co.uk/
+
+- The following media was taken from https://www.daviesandbrook.co.uk/
+
+- The following media was taken from https://fontawesome.com/
 
 ### Acknowledgments
 
