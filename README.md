@@ -322,3 +322,12 @@ All images in the hero video.
 
 ### Acknowledgments
 
+- Malia Havlicek - Code Institute mentor for all the support throughout this project.
+
+- Google Maps iframe from https://google-map-generator.com/
+
+- Color ideas from https://coolors.co/
+
+- Color & font ideas from https://www.corebyclaresmyth.com/
+
+- Code Institute for HTML and CSS lessons that were reffered back to throughout this project.
