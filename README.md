@@ -294,16 +294,31 @@ This project consists of three distinct pages: home page, careers and bookings. 
 
 - The following media was taken from https://www.belmond.com/hotels/europe/uk/oxfordshire/belmond-le-manoir-aux-quat-saisons/
 
-- The following media was taken from https://www.corebyclaresmyth.com/
+All images in the hero video.
+
+![Le Manoir media](documentation/images/careers-img.jpeg)
+
+![Le Manoir media](documentation/images/careers-form.jpeg)
+
+- The following media was taken from https://www.corebyclaresmyth.com
+
+![Core media](documentation/images/images.jpeg)
+
+![Core media](documentation/images/a-la-carte-img.jpeg)
+
+![Core media](documentation/images/contact-img.jpeg)
 
 - The following media was taken from https://trinityrestaurant.co.uk/
 
+![Trinity media](documentation/images/tasting-img.jpeg)
+
 - The following media was taken from https://www.daviesandbrook.co.uk/
 
-- The following media was taken from https://fontawesome.com/
+![Davies & Brook media](documentation/images/veg-img.jpeg)
+
+![Davies & Brook media](documentation/images/bookings-form.jpeg)
+
+- All icons in the website were taken from https://fontawesome.com/
 
 ### Acknowledgments
 
-This is the section where you refer to code examples, mentors, blogs, stack overflow answers and videos that helped you accomplish your end project. Even if it's an idea that you updated you should note the site and why it was important to your completed project.
-
-If you used a CodeInstitute Example project as a starting point. Make note of that here.
