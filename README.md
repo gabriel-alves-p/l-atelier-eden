@@ -85,13 +85,13 @@ This website was created as a user-centric project with the main goal of generat
 
 > - As a new customer, I want to know what type of dining the restaurant offers (e.g. casual dining, fine dining, sharing plates etc.) upon reaching the landing page, so I can decide to either leave or stay within the first scan.
 > - As a new customer, I want to easily find out more information about the restaurant, its accolades and the Chef whom runs the restaurant, so I know what kind of standards to expect.
-> - As a new customer, I want to find out more about menus and prices, so I can decide wether the cuisine suits my taste and/or is worth the price.
-> - As a new customer, I want to be able to see plenty of pictures of the food, so I can best decide wether to go ahead and book a table or not.
-> - As a new customer, I want to be able to find out if the restaurant can accomodate any of my possible dietary requirements (e.g. veganism, vegetarianism, allergies, etc.), so I can go ahead with the booking or leave the page.
+> - As a new customer, I want to find out more about menus and prices, so I can decide whether the cuisine suits my taste and/or is worth the price.
+> - As a new customer, I want to be able to see plenty of pictures of the food, so I can best decide whether to go ahead and book a table or not.
+> - As a new customer, I want to be able to find out if the restaurant can accommodate any of my possible dietary requirements (e.g. veganism, vegetarianism, allergies, etc.), so I can go ahead with the booking or leave the page.
 > - As a new customer, I want to be able to find out the address of the restaurant without having to contact its customer services, so I can see how far I would have to travel were I to book a table.
 > - As a new customer, I want to be able to find out about the restaurant's opening hours and to be able to contact them via a telephone number and/or email address.
 > - As a new customer, I want to be able to view what the cancellation policy is and how it affects me.
-> - Both as a new and existing customer, I want to be able to succesfully book a table for either lunch or dinner.
+> - Both as a new and existing customer, I want to be able to successfully book a table for either lunch or dinner.
 > - Both as a new and existing customer, I want to have the option of signing up to a newsletter, so I can hear more about special menu offers.
 > - Both as a new and existing customer, I want to be positively impacted by the color tones of the website.
 > - Both as a new and existing customer, I want to intuitively read and/or scan the website and find it easy on the eyes.
@@ -104,25 +104,25 @@ This website was created as a user-centric project with the main goal of generat
 
 > - As a developer, I hope to have exceeded my client's expectations.
 > - As a developer, I hope to have created an aesthetically pleasing website.
-> - As a developer, I hope to have learned more about my code writting skills and improve upon the mistakes made.
+> - As a developer, I hope to have learned more about my code writing skills and improve upon the mistakes made.
 > - As a developer, I hope to have learned how to write cleaner code and implement such skill onto my next project.
 > - As a developer, I hope to have learned more about myself and how to persevere upon encountering bugs in my code.
 
 #### Website Owner Goals
 
-> - As an owner, I want to easily express the luxiouriousness in the experience offered by my business.
+> - As an owner, I want to easily express the luxuriousness in the experience offered by my business.
 > - As an owner, I want to make sure the user finds the website easy to read and intuitive.
 > - As an owner, I want to showcase pictures of my restaurant and the food so customers may be drawn in.
 > - As an owner, I want to make the booking action as easy and intuitive as possible, with as little information to be filled out as necessary for a successful booking.
-> - As an owner, I want to have our contact information and opening hours displayed so new customers have option to get in touch with us would they choose to do so.
+> - As an owner, I want to have our contact information and opening hours displayed so new customers have the option to get in touch with us would they choose to do so.
 > - As an owner, I want to ultimately generate more business by means of a booking system.
-> - As an owner, I want to provide potential job applicants with enough information about the website to help them decide wether the job would suit them or not.
+> - As an owner, I want to provide potential job applicants with enough information about the website to help them decide whether the job would suit them or not.
 
 ### Design Choices
 
 #### Strategy Plane
 
-The website's ultimate goal is to advertise their work, accquire new customers and generate profit by means of showcasing the high standards in which the restaurant opperates to and how much care goes into producing such experiences for the customers.
+The website's ultimate goal is to advertise their work, acquire new customers and generate profit by means of showcasing the high standards in which the restaurant operates to and how much care goes into producing such experiences for the customers.
 The target audience are adults aged 20 years and over whom are interested in fine-dining.
 
 #### Scope Plane
@@ -146,11 +146,11 @@ Features, based on the strategy plane, that made it onto the website include:
 
 #### Structure Plane
 
-The information on the home was designed to be structured by priority, so that the first thing the customer reads as they scroll down is a description of what the restaurant does and what it has achieved in the past. That gives the user more confidence as they scroll down to the second section, which contain the menus and the prices. Finally the user finds the contact information and address, grouped together.
+The information on the home was designed to be structured by priority so that the first thing the customer reads as they scroll down is a description of what the restaurant does and what it has achieved in the past. That gives the user more confidence as they scroll down to the second section, which contains the menus and the prices. Finally, the user finds the contact information and address, grouped together.
 
 The same format was followed across the bookings and job application pages, with a brief overview of the topic to give the user more information and confidence to scroll down and fill out the forms.
 
-The same navigation bar and footer are found across all three pages, to provide the user with intuitiviness.
+The same navigation bar and footer are found across all three pages, to provide the user with intuitiveness.
 
 #### Skeleton Plane
 
@@ -218,7 +218,7 @@ This project consists of three distinct pages: home page, careers and bookings. 
 
 #### Home Page
 
-- It acts as the landing page for the website and contains all the main information the user could be looking for, structured in a priority order. It contains information about the restaurant, menus and prices, contact information and location. It was designed this way to be intuititve and make sure the user does not have to look hard at all to find important information.
+- It acts as the landing page for the website and contains all the main information the user could be looking for, structured in a priority order. It contains information about the restaurant, menus and prices, contact information and location. It was designed this way to be intuitive and make sure the user does not have to look hard at all to find important information.
 
 ![Home page features](documentation/images/feature1.jpeg)
 
@@ -240,7 +240,7 @@ This project consists of three distinct pages: home page, careers and bookings. 
 
 #### Navigation Bar
 
-- All three pages share the same fixed navigation bar at the top, keeping in format with the intuitivity of the website, helping the user get anywhere, from anywhere.
+- All three pages share the same fixed navigation bar at the top, keeping in format with the intuitiveness of the website, helping the user get anywhere, from anywhere.
 
 ![Navigation features](documentation/images/feature7.jpeg)
 
@@ -270,7 +270,7 @@ New page for Privacy Policy Page instead of a link to the footer section that se
 
 #### Cookies Policy Page
 
-New page for Cookie Policy instead of alink to the footer section that seems to go nowhere for the user.
+New page for Cookie Policy instead of a link to the footer section that seems to go nowhere for the user.
 
 ## Testing
 
@@ -307,11 +307,11 @@ New page for Cookie Policy instead of alink to the footer section that seems to 
 
 - Smoothing out the edges of the logo background took some time also, it was finally solved by the use of the 'box-shadow' element, which I found whilst researching on [W3Schools](https://www.w3schools.com/).
 
-- Since the Google Maps iFrame was imported with some styles pre-set, I found it difficult to override some of them and centralize the iFrame within it's parent division. I managed to solve this by using 'margin: 0 auto;' which was found in one of my lessons with Code Institute.
+- Since the Google Maps iFrame was imported with some styles pre-set, I found it difficult to override some of them and centralize the iFrame within its parent division. I managed to solve this by using 'margin: 0 auto;' which was found in one of my lessons with Code Institute.
 
 ### Outstanding Defects
 
-- A few margins need some slight adjusting for mobile viewports, will be done in future works.
+- A few margins need some slight adjusting for mobile viewports, which will be done in future works.
 
 ## Accessibility
 
@@ -325,7 +325,7 @@ New page for Cookie Policy instead of alink to the footer section that seems to 
 
 ## Deployment
 
-1. Go to repository created on GitHub.
+1. Go to the repository created on GitHub.
 2. Click on 'Settings'.
 3. Scroll down and click on 'Pages' on the left hand side menu.
 4. Select the 'Branch' 'master' and click on 'Save'.
@@ -404,4 +404,4 @@ All images in the hero video.
 
 - Color & font ideas from https://www.corebyclaresmyth.com/
 
-- Code Institute for HTML and CSS lessons that were reffered back to throughout this project.
+- Code Institute for HTML and CSS lessons that were referred back to throughout this project.
