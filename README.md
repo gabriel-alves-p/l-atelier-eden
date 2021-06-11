@@ -1,19 +1,69 @@
 # L'atelier Eden
 
-![Website header in mobile viewport](documentation/images/website-header-mobile.jpeg)
+![Responsive website](documentation/images/responsive-website.jpeg)
 
 - You can find the deployed website [here](https://gabriel-alves-p.github.io/l-atelier-eden/).
 
 - Milestone Project 1 - A User-Centric Project as part of Code Institute's Software Development Course.
 
 ## Author
+
 Gabriel Alves
 
 ## Project Overview
 
-![https://github.com/gabriel-alves-p/l-atelier-eden](documentation/images/responsive-website.jpeg)
+![Website header in mobile viewport](documentation/images/website-header-mobile.jpeg)
 
 This website was created as a user-centric project with the main goal of generating business by the means of a booking form whilst providing any information the customer might like to enquire about (E.g. about us information, menus, contact information, location and job applications). The website consists a landing page which has a hero video with a logo standing out in its center, an about us section, a menus section and a contact details section. It then has two separate pages dedicated to job applications and a booking form, respectively. All pages share the same fixed navigation bar at the top and footer at the bottom.
+
+## Table Of Contents
+
+- [UX](#ux)
+  * [Project Goals](#project-goals)
+    + [User Goals](#user-goals)
+    + [Developer Goals](#developer-goals)
+    + [Website Owner Goals](#website-owner-goals)
+  * [Design Choices](#design-choices)
+    + [Strategy Plane](#strategy-plane)
+    + [Scope Plane](#scope-plane)
+    + [Structure Plane](#structure-plane)
+    + [Skeleton Plane](#skeleton-plane)
+    + [Colors](#colors)
+    + [Typography](#typography)
+    + [Images](#images)
+    + [Animations](#animations)
+    + [Transitions](#transitions)
+  * [Wireframes](#wireframes)
+  * [Features](#features)
+    + [Home Page](#home-page)
+    + [Careers](#careers)
+    + [Booking](#booking)
+    + [Navigation Bar](#navigation-bar)
+    + [Footer](#footer)
+    + [Responsiveness](#responsiveness)
+  * [Future Features](#future-features)
+    + [Bookings](#bookings)
+    + [Terms Of Use Page](#terms-of-use-page)
+    + [Privacy Policy Page](#privacy-policy-page)
+    + [Cookies Policy Page](#cookies-policy-page)
+- [Testing](#testing)
+  * [Validation Testing](#validation-testing)
+  * [Cross Browser and Cross Device Testing](#cross-browser-and-cross-device-testing)
+  * [Manual Testing](#manual-testing)
+  * [Defect Tracking](#defect-tracking)
+  * [Defects of Note](#defects-of-note)
+  * [Outstanding Defects](#outstanding-defects)
+- [Accessibility](#accessibility)
+  * [Lighthouse Audits](#lighthouse-audits)
+  * [Keyboard Navigation](#keyboard-navigation)
+- [Deployment](#deployment)
+- [Credits](#credits)
+  * [Content](#content)
+  * [Media](#media)
+  * [Acknowledgments](#acknowledgments)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## UX
 
@@ -170,21 +220,35 @@ This project consists of three distinct pages: home page, careers and bookings. 
 
 - It acts as the landing page for the website and contains all the main information the user could be looking for, structured in a priority order. It contains information about the restaurant, menus and prices, contact information and location. It was designed this way to be intuititve and make sure the user does not have to look hard at all to find important information.
 
+![Home page features](documentation/images/feature1.jpeg)
+
+![Home page features](documentation/images/feature2.jpeg)
+
+![Home page features](documentation/images/feature3.jpeg)
+
 #### Careers
 
 - The careers page stands out on its own, separate from the main content, as it is my understanding most users will not be interested in this section. Nonetheless, it still feels very much a part of the same website, with the same type of heading and paragraph content to introduce you to the section, followed by staff pictures to give the page more of a purpose-filled feel, then it informs the user of the positions available for application, and finally the application form, kept as simple and in accordance with the design of the website as possible.
 
+![Careers page features](documentation/images/feature4.jpeg)
+
 #### Booking
 
-- The bookings page, much like the careers page, is found separate from the main content. It is however, for a different reason. The page is kept separate to make the act of booking a table exclusive and immersive to the user. It includes the same format of the careers page, a heading, paragraph content to inform the user, and then finally the booking form, where the user can submit their details in for an experience with the restaurant,
+- The bookings page, much like the careers page, is found separate from the main content. It is however, for a different reason. The page is kept separate to make the act of booking a table exclusive and immersive to the user. It includes the same format of the careers page, a heading, paragraph content to inform the user, and then finally the booking form, where the user can submit their details in for an experience with the restaurant.
+
+![Bookings page features](documentation/images/feature5.jpeg)
 
 #### Navigation Bar
 
 - All three pages share the same fixed navigation bar at the top, keeping in format with the intuitivity of the website, helping the user get anywhere, from anywhere.
 
+![Navigation features](documentation/images/feature7.jpeg)
+
 #### Footer
 
 - All three pages share the same footer at the bottom of the page, keeping it uniform and making sure the user can get to the footer regardless of which page they are on.
+
+![Footer features](documentation/images/feature6.jpeg)
 
 #### Responsiveness
 
@@ -192,11 +256,21 @@ This project consists of three distinct pages: home page, careers and bookings. 
 
 ### Future Features
 
-- In the future I would like to implemment an OpenTable calendar iframe to the bookings form, making it easier to book a table.
-- screenshot of calendar
+#### Bookings
 
-- In the future, I would like to introduce separate pages for "terms of use, privacy policy & cookies policy".
-- screenshot of footer-left
+Use OpenTable calendar iframe for bookings instead of the current form. This will allow better validation, and integration to restaurant capacity and seating arrangements.
+
+#### Terms Of Use Page
+
+New page for Terms of Use page instead of a link to the footer section that seems to go nowhere for the user.
+
+#### Privacy Policy Page
+
+New page for Privacy Policy Page instead of a link to the footer section that seems to go nowhere for the user.
+
+#### Cookies Policy Page
+
+New page for Cookie Policy instead of alink to the footer section that seems to go nowhere for the user.
 
 ## Testing
 
